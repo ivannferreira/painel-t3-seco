@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"02/10/2026 04:38:05",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"02/10/2026 04:49:40",rotas:[
 {destino:"CROSSDOCKING JOÃO PESSOA 1°",rota:"12D17",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING JOÃO PESSOA 1°",rota:"13D14",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING JOÃO PESSOA 1°",rota:"13D16",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
