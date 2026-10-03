@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"03/10/2026 18:22:51",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"03/10/2026 18:36:15",rotas:[
 {destino:"03EX1",rota:"03EX1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING PORTO ALEGRE + APUCARANA",rota:"01404",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING PORTO ALEGRE + APUCARANA",rota:"01523",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
