@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"03/10/2026 11:39:56",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"03/10/2026 12:06:39",rotas:[
 {destino:"03EX1",rota:"03EX1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING PORTO ALEGRE + APUCARANA",rota:"01404",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING PORTO ALEGRE + APUCARANA",rota:"01523",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -64,7 +64,7 @@
 {destino:"CROSSDOCKING RIO DE JANEIRO 2°",rota:"032D2",sep:[0,0,0,0],c1:[1,0,0,0],c2:[1,0,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO 2°",rota:"03202",sep:[0,0,0,0],c1:[1,0,0,0],c2:[1,0,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CONTAGEM",rota:"10201",sep:[0,0,0,0],c1:[1,0,9,0],c2:[131,41,9,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING CONTAGEM",rota:"10301",sep:[0,0,0,0],c1:[4,0,17,0],c2:[156,59,17,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING CONTAGEM",rota:"10301",sep:[0,0,0,0],c1:[0,0,17,0],c2:[156,59,17,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CONTAGEM",rota:"10304",sep:[0,0,0,0],c1:[4,0,12,0],c2:[182,149,12,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CONTAGEM",rota:"10401",sep:[0,0,0,0],c1:[0,0,1,0],c2:[29,17,1,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CAMPO GRANDE 1°",rota:"08303",sep:[0,0,0,0],c1:[28,0,1,0],c2:[106,25,1,0],status:"PENDENTE"},
