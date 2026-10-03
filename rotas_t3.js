@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"03/10/2026 15:26:47",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"03/10/2026 15:40:18",rotas:[
 {destino:"03EX1",rota:"03EX1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING PORTO ALEGRE + APUCARANA",rota:"01404",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING PORTO ALEGRE + APUCARANA",rota:"01523",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -70,7 +70,7 @@
 {destino:"CROSSDOCKING CAMPO GRANDE 1°",rota:"08303",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING CAMPO GRANDE 1°",rota:"08401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING CAMPO GRANDE 1°",rota:"08402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"CROSSDOCKING CUIABA",rota:"09401",sep:[0,0,0,0],c1:[0,0,15,0],c2:[8,19,15,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING CUIABA",rota:"09401",sep:[0,0,0,0],c1:[0,0,15,0],c2:[0,19,15,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CUIABA",rota:"09501",sep:[0,0,0,0],c1:[0,0,2,0],c2:[1,8,2,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CUIABA",rota:"09601",sep:[0,0,0,0],c1:[4,0,1,0],c2:[91,2,1,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CUIABA",rota:"09621",sep:[0,0,0,0],c1:[82,0,7,0],c2:[137,12,7,0],status:"PENDENTE"},
