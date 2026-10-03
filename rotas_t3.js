@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"03/10/2026 14:46:16",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"03/10/2026 14:59:52",rotas:[
 {destino:"03EX1",rota:"03EX1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING PORTO ALEGRE + APUCARANA",rota:"01404",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING PORTO ALEGRE + APUCARANA",rota:"01523",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -70,12 +70,12 @@
 {destino:"CROSSDOCKING CAMPO GRANDE 1°",rota:"08303",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING CAMPO GRANDE 1°",rota:"08401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING CAMPO GRANDE 1°",rota:"08402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"CROSSDOCKING CUIABA",rota:"09401",sep:[0,0,0,0],c1:[57,0,15,0],c2:[306,19,15,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING CUIABA",rota:"09501",sep:[0,0,0,0],c1:[84,0,2,0],c2:[143,8,2,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING CUIABA",rota:"09601",sep:[0,0,0,0],c1:[67,0,1,0],c2:[91,2,1,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING CUIABA",rota:"09401",sep:[0,0,0,0],c1:[0,0,15,0],c2:[306,19,15,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING CUIABA",rota:"09501",sep:[0,0,0,0],c1:[3,0,2,0],c2:[143,8,2,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING CUIABA",rota:"09601",sep:[0,0,0,0],c1:[4,0,1,0],c2:[91,2,1,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CUIABA",rota:"09621",sep:[0,0,0,0],c1:[82,0,7,0],c2:[137,12,7,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING SALVADOR",rota:"11601",sep:[0,0,0,0],c1:[66,0,6,0],c2:[66,24,6,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING SALVADOR",rota:"11102",sep:[0,0,0,0],c1:[72,0,16,0],c2:[72,17,16,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING SALVADOR",rota:"11103",sep:[0,0,0,0],c1:[164,0,4,0],c2:[181,22,4,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING SALVADOR",rota:"11601",sep:[0,0,0,0],c1:[36,0,6,0],c2:[66,24,6,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING SALVADOR",rota:"11102",sep:[0,0,0,0],c1:[69,0,16,0],c2:[72,17,16,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING SALVADOR",rota:"11103",sep:[0,0,0,0],c1:[111,0,4,0],c2:[181,22,4,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING SALVADOR",rota:"11201",sep:[0,0,0,0],c1:[102,0,10,0],c2:[102,14,10,0],status:"PENDENTE"},
 ]};
