@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"03/10/2026 12:34:15",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"03/10/2026 13:08:08",rotas:[
 {destino:"03EX1",rota:"03EX1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING PORTO ALEGRE + APUCARANA",rota:"01404",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING PORTO ALEGRE + APUCARANA",rota:"01523",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -38,7 +38,7 @@
 {destino:"CROSSDOCKING RIBEIRÃO PRETO 1°",rota:"16121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[52,7,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIBEIRÃO PRETO 1°",rota:"16122",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING RIBEIRÃO PRETO 2°",rota:"16123",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"CROSSDOCKING RIBEIRÃO PRETO 2°",rota:"16201",sep:[4,0,0,0],c1:[21,0,0,0],c2:[43,5,0,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIBEIRÃO PRETO 2°",rota:"16201",sep:[5,0,0,0],c1:[21,0,0,0],c2:[43,5,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIBEIRÃO PRETO 2°",rota:"16221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[26,12,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING TABOÃO",rota:"27201",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING TABOÃO",rota:"27202",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -70,7 +70,7 @@
 {destino:"CROSSDOCKING CAMPO GRANDE 1°",rota:"08303",sep:[0,0,0,0],c1:[28,0,1,0],c2:[106,25,1,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CAMPO GRANDE 1°",rota:"08401",sep:[0,0,0,0],c1:[0,0,3,0],c2:[0,0,3,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CAMPO GRANDE 1°",rota:"08402",sep:[0,0,0,0],c1:[38,0,11,0],c2:[38,8,11,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING CUIABA",rota:"09401",sep:[1,0,0,0],c1:[307,0,15,0],c2:[307,19,15,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING CUIABA",rota:"09401",sep:[0,0,0,0],c1:[306,0,15,0],c2:[306,19,15,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CUIABA",rota:"09501",sep:[77,0,0,0],c1:[143,0,2,0],c2:[143,8,2,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CUIABA",rota:"09601",sep:[0,0,0,0],c1:[91,0,1,0],c2:[91,2,1,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CUIABA",rota:"09621",sep:[0,0,0,0],c1:[137,0,7,0],c2:[137,12,7,0],status:"PENDENTE"},
