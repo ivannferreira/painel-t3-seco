@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"05/10/2026 11:11:56",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"05/10/2026 11:23:17",rotas:[
 {destino:"CROSSDOCKING TABOÃO",rota:"27301",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING TABOÃO",rota:"27302",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING TABOÃO",rota:"27303",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -18,10 +18,10 @@
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03301",sep:[0,0,0,0],c1:[0,0,0,0],c2:[1,0,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03303",sep:[0,0,0,0],c1:[0,0,0,0],c2:[2,0,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03304",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03306",sep:[0,0,0,0],c1:[1,0,0,0],c2:[7,0,0,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03308",sep:[0,0,0,0],c1:[0,0,0,0],c2:[6,0,0,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"033D2",sep:[0,0,0,0],c1:[0,0,0,0],c2:[51,0,0,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"033D1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[9,0,0,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03306",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
+{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03308",sep:[0,0,0,0],c1:[0,0,0,0],c2:[4,0,0,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"033D2",sep:[0,0,0,0],c1:[0,0,0,0],c2:[6,0,0,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"033D1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING DISTRITO",rota:"19401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING DISTRITO",rota:"19402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING DISTRITO",rota:"19421",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
