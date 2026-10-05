@@ -130,7 +130,7 @@ header,.grid,.total{display:none!important}
 <tr><td>Separação (Químico)</td><td class="num">50</td><td class="num" contenteditable="true" data-k="st4">-</td><td class="num" contenteditable="true" data-k="pr4">-</td></tr>
 <tr><td>Remonte</td><td class="num">600</td><td class="num" contenteditable="true" data-k="st5">-</td><td class="num" contenteditable="true" data-k="pr5">-</td></tr>
 <tr><td>Empilhadeira</td><td class="num">-</td><td class="num" contenteditable="true" data-k="st6">-</td><td class="num">-</td></tr>
-<tr class="prod-total"><td>Total geral</td><td class="num">-</td><td class="num" id="staffTotal">0</td><td class="num" id="projTotal">0</td></tr></tbody></table><div class="prod-kpis"><div class="prod-kpi"><b id="staffKpi">0</b><span>Staff total</span></div><div class="prod-kpi present"><b id="presentKpi">0</b><span>Presentes</span></div><div class="prod-kpi delta"><b id="deltaKpi">0</b><span>Delta</span></div><div class="prod-kpi rate"><b id="rateKpi">0%</b><span>Produtividade</span></div></div><div class="note">Dados carregados automaticamente da gestão T3.</div></div></div>
+<tr class="prod-total"><td>Total geral</td><td class="num">-</td><td class="num" id="staffTotal">0</td><td class="num" id="projTotal">0</td></tr></tbody></table><div class="prod-kpis"><div class="prod-kpi"><b id="staffKpi">0</b><span>Staff total</span></div><div class="prod-kpi present"><b id="presentKpi">0</b><span>Presentes</span></div><div class="prod-kpi delta"><b id="deltaKpi">0</b><span>Delta</span></div><div class="prod-kpi rate"><b id="rateKpi">0%</b><span>Porcentagem</span></div></div><div class="note">Dados carregados automaticamente da gestão T3.</div></div></div>
 <div class="panel"><h2>ABSENTEÍSMO</h2><div class="body" contenteditable="true" data-k="abs">Alessandro Willy de Jesus Pereira — Ag. retorno<br>Alex da Silva — Ag. retorno<br>Bruna Maria Petronilho Zachello — Ag. retorno<br>Bruno Domingues Schiavinato — Ag. retorno<br>Davi Henrique Estevam Belo — Ag. retorno<br>Jessica Natalina Goncalves dos Santos — Ag. retorno<br>Leandro Vizoto Vieira — Ag. retorno<br>Marcelo Antonio da Silva — Ag. retorno<br>Neemias Levi dos Santos — Ag. retorno<br>Raimundo Vieira Conceicao — Ag. retorno<br>Ezequiel Moreira de Arruda — Férias</div></div>
 <div class="panel"><h2>BRIEFING DE TURNO</h2><div class="body" contenteditable="true" data-k="brief"><b>Segurança</b><br>Editar briefing aqui.<br><br><b>Qualidade</b><br>Editar ponto de qualidade.<br><br><b>Ponto operacional</b><br>Editar orientação do turno.</div></div>
 </div>
@@ -330,16 +330,16 @@ function normalizarTextoPainel(s){
     .replace(/ATEN  O/g,"ATENÇÃO")
     .replace(/ATEN ÃO/g,"ATENÇÃO")
     .replace(/ATEN O/g,"ATENÇÃO")
-    .replace(/SEGURAN��A/gi,"SEGURANÇA")
-    .replace(/SEGURAN�A/gi,"SEGURANÇA")
-    .replace(/ATEN��O/gi,"ATENÇÃO")
-    .replace(/ATEN�O/gi,"ATENÇÃO")
-    .replace(/F�RIAS/gi,"FÉRIAS")
-    .replace(/QU�MICO/gi,"QUÍMICO")
-    .replace(/CONFER�NCIA/gi,"CONFERÊNCIA")
-    .replace(/SEPARA��O/gi,"SEPARAÇÃO")
-    .replace(/GEST�O/gi,"GESTÃO")
-    .replace(/PROJE��O/gi,"PROJEÇÃO");
+    .replace(/SEGURAN  A/gi,"SEGURANÇA")
+    .replace(/SEGURAN A/gi,"SEGURANÇA")
+    .replace(/ATEN  O/gi,"ATENÇÃO")
+    .replace(/ATEN O/gi,"ATENÇÃO")
+    .replace(/F RIAS/gi,"FÉRIAS")
+    .replace(/QU MICO/gi,"QUÍMICO")
+    .replace(/CONFER NCIA/gi,"CONFERÊNCIA")
+    .replace(/SEPARA  O/gi,"SEPARAÇÃO")
+    .replace(/GEST O/gi,"GESTÃO")
+    .replace(/PROJE  O/gi,"PROJEÇÃO");
 }
 window.addEventListener("load",()=>{
   document.querySelectorAll("td.status").forEach(el=>{
