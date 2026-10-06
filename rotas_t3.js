@@ -1,9 +1,9 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"06/10/2026 05:51:55",rotas:[
-{destino:"CROSSDOCKING TABOÃO",rota:"27401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,1,0],status:"PENDENTE"},
+﻿window.PAINEL_T3_ROTAS={atualizacao:"06/10/2026 06:01:48",rotas:[
+{destino:"CROSSDOCKING TABOÃO",rota:"27401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING TABOÃO",rota:"27402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"CROSSDOCKING TABOÃO",rota:"27403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,2,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING TABOÃO",rota:"27403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING TABOÃO",rota:"27404",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"CROSSDOCKING TABOÃO",rota:"27405",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,1,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING TABOÃO",rota:"27405",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING GUARULHOS",rota:"223G1",sep:[0,0,0,0],c1:[222,0,13,0],c2:[222,26,13,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING GUARULHOS",rota:"223G2",sep:[0,0,0,0],c1:[250,0,14,0],c2:[250,77,14,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING GUARULHOS",rota:"223G4",sep:[0,0,0,0],c1:[244,0,29,3],c2:[244,45,29,3],status:"PENDENTE"},
@@ -38,7 +38,7 @@
 {destino:"CROSSDOCKING BELEM",rota:"15401",sep:[156,21,0,0],c1:[156,21,3,0],c2:[156,23,3,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING BELEM",rota:"15402",sep:[81,16,0,0],c1:[81,16,6,0],c2:[81,18,6,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING BELEM",rota:"15502",sep:[117,0,0,0],c1:[117,0,2,0],c2:[117,5,2,0],status:"PENDENTE"},
-{destino:"SP",rota:"04401",sep:[65,2,0,0],c1:[357,2,17,0],c2:[357,33,17,0],status:"PENDENTE"},
+{destino:"SP",rota:"04401",sep:[49,2,0,0],c1:[357,2,17,0],c2:[357,33,17,0],status:"PENDENTE"},
 {destino:"SP",rota:"04402",sep:[51,16,0,0],c1:[214,16,16,0],c2:[214,34,16,0],status:"PENDENTE"},
 {destino:"SP",rota:"04403",sep:[27,0,0,0],c1:[101,0,6,0],c2:[101,5,6,0],status:"PENDENTE"},
 {destino:"SP",rota:"04404",sep:[39,4,0,0],c1:[183,4,29,0],c2:[183,67,29,0],status:"PENDENTE"},
