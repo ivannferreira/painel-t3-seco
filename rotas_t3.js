@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"06/10/2026 00:45:28",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"06/10/2026 00:55:40",rotas:[
 {destino:"CROSSDOCKING TABOÃO",rota:"27401",sep:[0,0,0,0],c1:[20,0,26,1],c2:[118,89,26,1],status:"PENDENTE"},
 {destino:"CROSSDOCKING TABOÃO",rota:"27402",sep:[0,0,0,0],c1:[147,0,16,1],c2:[147,32,16,1],status:"PENDENTE"},
 {destino:"CROSSDOCKING TABOÃO",rota:"27403",sep:[0,0,0,0],c1:[302,0,36,1],c2:[302,85,36,1],status:"PENDENTE"},
