@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"06/10/2026 11:03:24",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"06/10/2026 11:13:50",rotas:[
 {destino:"CROSSDOCKING TABOÃO",rota:"27401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING TABOÃO",rota:"27402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING TABOÃO",rota:"27403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -38,10 +38,10 @@
 {destino:"CROSSDOCKING BELEM",rota:"15401",sep:[0,0,0,0],c1:[52,0,3,0],c2:[52,2,3,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING BELEM",rota:"15402",sep:[0,0,0,0],c1:[33,0,5,0],c2:[33,2,6,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING BELEM",rota:"15502",sep:[0,0,0,0],c1:[0,0,2,0],c2:[0,5,2,0],status:"PENDENTE"},
-{destino:"SP",rota:"04401",sep:[0,0,0,0],c1:[69,0,2,0],c2:[141,31,2,0],status:"PENDENTE"},
+{destino:"SP",rota:"04401",sep:[0,0,0,0],c1:[69,0,2,0],c2:[98,31,2,0],status:"PENDENTE"},
 {destino:"SP",rota:"04402",sep:[0,0,0,0],c1:[1,0,1,0],c2:[1,18,1,0],status:"PENDENTE"},
 {destino:"SP",rota:"04403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP",rota:"04404",sep:[0,0,0,0],c1:[2,0,3,0],c2:[11,63,23,0],status:"PENDENTE"},
+{destino:"SP",rota:"04404",sep:[0,0,0,0],c1:[0,0,2,0],c2:[6,63,2,0],status:"PENDENTE"},
 {destino:"SP",rota:"04405",sep:[0,0,0,0],c1:[163,0,10,1],c2:[221,29,10,1],status:"PENDENTE"},
 {destino:"SP",rota:"04406",sep:[0,0,0,0],c1:[78,0,22,3],c2:[100,40,22,3],status:"PENDENTE"},
 {destino:"SP",rota:"04408",sep:[0,0,0,0],c1:[4,0,4,0],c2:[4,49,4,0],status:"PENDENTE"},
