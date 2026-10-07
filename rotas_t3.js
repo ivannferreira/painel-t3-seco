@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"07/10/2026 03:28:14",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"07/10/2026 03:40:52",rotas:[
 {destino:"03EX7",rota:"03EX7",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"TABOÃO",rota:"27501",sep:[0,0,0,0],c1:[0,0,0,1],c2:[0,19,0,1],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27502",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,233,0,0],status:"PENDENTE"},
@@ -8,7 +8,7 @@
 {destino:"GUARULHOS",rota:"224G1",sep:[0,0,0,0],c1:[113,0,8,0],c2:[113,66,8,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"224G2",sep:[0,0,0,0],c1:[79,20,0,0],c2:[79,20,0,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"224G3",sep:[0,2,0,0],c1:[138,41,20,1],c2:[138,76,20,1],status:"PENDENTE"},
-{destino:"GUARULHOS",rota:"224G4",sep:[6,12,0,0],c1:[288,152,33,2],c2:[288,232,33,2],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"224G4",sep:[4,12,0,0],c1:[288,149,33,2],c2:[288,232,33,2],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"22A02",sep:[0,5,0,0],c1:[61,41,108,16],c2:[61,41,108,16],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D13",sep:[0,0,0,0],c1:[0,0,0,0],c2:[2,5,0,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D15",sep:[0,0,0,0],c1:[0,0,0,0],c2:[1,10,3,0],status:"PENDENTE"},
