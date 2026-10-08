@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"08/10/2026 01:24:11",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"08/10/2026 01:30:37",rotas:[
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01104",sep:[0,0,0,0],c1:[1,0,17,0],c2:[85,66,17,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01103",sep:[0,0,0,0],c1:[0,0,2,0],c2:[60,80,2,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[17,1,0,0],status:"PENDENTE"},
@@ -20,14 +20,14 @@
 {destino:"TABOÃO",rota:"27604",sep:[0,10,0,0],c1:[140,28,8,0],c2:[140,32,8,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27605",sep:[18,5,0,0],c1:[182,26,14,2],c2:[182,47,14,2],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"225G1",sep:[0,29,0,0],c1:[72,29,5,0],c2:[72,29,5,0],status:"PENDENTE"},
-{destino:"GUARULHOS",rota:"225G3",sep:[98,83,0,0],c1:[239,83,23,0],c2:[239,83,23,0],status:"PENDENTE"},
-{destino:"GUARULHOS",rota:"225G4",sep:[46,30,1,0],c1:[169,30,18,3],c2:[169,30,18,3],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"225G3",sep:[95,83,0,0],c1:[239,83,23,0],c2:[239,83,23,0],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"225G4",sep:[41,30,1,0],c1:[169,30,18,3],c2:[169,30,18,3],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"225G5",sep:[223,230,0,0],c1:[308,230,20,0],c2:[308,230,20,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1°",rota:"03601",sep:[12,26,0,0],c1:[83,26,10,3],c2:[83,26,10,3],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1°",rota:"03603",sep:[22,20,0,0],c1:[148,20,29,2],c2:[148,20,29,2],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1°",rota:"03604",sep:[6,29,0,0],c1:[267,29,28,3],c2:[267,29,28,3],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1°",rota:"03606",sep:[165,50,0,0],c1:[165,50,12,0],c2:[165,50,12,0],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO 2°",rota:"036D1",sep:[261,81,0,0],c1:[265,81,32,0],c2:[265,81,32,0],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO 2°",rota:"036D1",sep:[243,81,0,0],c1:[265,81,32,0],c2:[265,81,32,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2°",rota:"036D2",sep:[252,185,1,0],c1:[335,185,65,2],c2:[335,185,65,2],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2°",rota:"03608",sep:[61,13,0,0],c1:[183,13,6,0],c2:[183,13,6,0],status:"PENDENTE"},
 {destino:"SALVADOR",rota:"11301",sep:[73,61,8,0],c1:[73,61,8,0],c2:[73,61,8,0],status:"PENDENTE"},
