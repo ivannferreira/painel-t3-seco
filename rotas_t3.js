@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"08/10/2026 03:06:46",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"08/10/2026 03:13:14",rotas:[
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01104",sep:[0,0,0,0],c1:[0,0,1,0],c2:[4,66,1,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01103",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,80,2,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,1,0,0],status:"PENDENTE"},
