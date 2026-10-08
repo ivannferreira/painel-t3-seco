@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"08/10/2026 06:54:24",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"08/10/2026 07:00:54",rotas:[
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01104",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01103",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -19,7 +19,7 @@
 {destino:"TABOÃO",rota:"27603",sep:[0,0,0,0],c1:[268,0,14,4],c2:[268,92,14,4],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27604",sep:[0,0,0,0],c1:[140,0,8,0],c2:[140,32,8,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27605",sep:[0,0,0,0],c1:[182,0,14,2],c2:[182,47,14,2],status:"PENDENTE"},
-{destino:"GUARULHOS",rota:"225G1",sep:[0,0,0,0],c1:[72,0,5,0],c2:[72,29,5,0],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"225G1",sep:[0,0,0,0],c1:[3,0,5,0],c2:[72,29,5,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"225G3",sep:[0,0,0,0],c1:[239,1,23,0],c2:[239,83,23,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"225G4",sep:[0,0,0,0],c1:[169,0,18,3],c2:[169,30,18,3],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"225G5",sep:[0,0,0,0],c1:[301,0,20,0],c2:[301,228,20,0],status:"PENDENTE"},
@@ -51,7 +51,7 @@
 {destino:"SP",rota:"04622",sep:[296,28,5,0],c1:[296,28,5,0],c2:[296,28,5,0],status:"PENDENTE"},
 {destino:"SP",rota:"04623",sep:[457,70,23,0],c1:[457,70,23,0],c2:[457,70,23,0],status:"PENDENTE"},
 {destino:"SP",rota:"04624",sep:[330,20,11,0],c1:[330,20,11,0],c2:[330,20,11,0],status:"PENDENTE"},
-{destino:"SP",rota:"04625",sep:[304,11,17,0],c1:[306,11,17,0],c2:[306,11,17,0],status:"PENDENTE"},
+{destino:"SP",rota:"04625",sep:[252,11,17,0],c1:[306,11,17,0],c2:[306,11,17,0],status:"PENDENTE"},
 {destino:"SP",rota:"04626",sep:[332,29,11,0],c1:[332,29,11,0],c2:[332,29,11,0],status:"PENDENTE"},
 {destino:"SP",rota:"04602",sep:[149,3,4,0],c1:[152,3,4,0],c2:[152,3,4,0],status:"PENDENTE"},
 {destino:"SP",rota:"04603",sep:[199,25,3,0],c1:[199,25,3,0],c2:[199,25,3,0],status:"PENDENTE"},
