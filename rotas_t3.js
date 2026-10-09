@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"09/10/2026 02:21:49",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"09/10/2026 02:28:58",rotas:[
 {destino:"CONTAGEM",rota:"10101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[91,0,16,0],c2:[91,27,16,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,41,6,0],c2:[0,45,7,0],status:"PENDENTE"},
