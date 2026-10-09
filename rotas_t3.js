@@ -1,11 +1,11 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"09/10/2026 06:02:28",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"09/10/2026 06:09:34",rotas:[
 {destino:"CONTAGEM",rota:"10101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,1,0],c2:[7,27,16,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,1,0],c2:[0,45,7,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[109,16,3,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19201",sep:[0,0,0,0],c1:[0,0,0,0],c2:[11,95,19,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19202",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,88,3,0],status:"PENDENTE"},
-{destino:"DISTRITO",rota:"19301",sep:[0,0,0,0],c1:[1,0,1,0],c2:[5,33,11,0],status:"PENDENTE"},
+{destino:"DISTRITO",rota:"19301",sep:[0,0,0,0],c1:[1,0,1,0],c2:[1,33,11,0],status:"PENDENTE"},
 {destino:"CUIABÁ",rota:"09201",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CUIABÁ",rota:"09301",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CAMPO GRANDE",rota:"08101",sep:[0,0,0,0],c1:[92,0,4,0],c2:[92,0,4,0],status:"PENDENTE"},
@@ -48,7 +48,7 @@
 {destino:"GUARULHOS",rota:"226G2",sep:[0,84,0,0],c1:[242,84,9,0],c2:[242,84,9,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"226G3",sep:[12,19,0,0],c1:[207,19,11,0],c2:[207,19,11,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"226G4",sep:[14,191,0,0],c1:[383,191,18,0],c2:[383,191,18,0],status:"PENDENTE"},
-{destino:"GUARULHOS",rota:"226G5",sep:[10,119,0,0],c1:[237,119,38,0],c2:[237,119,38,0],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"226G5",sep:[0,119,0,0],c1:[237,119,38,0],c2:[237,119,38,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO",rota:"03124",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[66,51,0,0],c1:[119,51,4,0],c2:[119,51,4,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[178,69,0,0],c1:[178,69,20,0],c2:[178,69,20,0],status:"PENDENTE"},
