@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>MONITORAMENTO OPERACIONAL — V11 Compacto</title>
+<title>MONITORAMENTO OPERACIONAL — Corporativo</title>
 <style>
 :root{--bg:#111722;--card:#1b2535;--card2:#202d42;--line:#2c3a50;--txt:#f4f7fb;--mut:#91a0b6;--green:#35d87c;--red:#ff637d;--amber:#f0ad43;--blue:#63a4ff}
 *{box-sizing:border-box} body{margin:0;background:#0d131d;color:var(--txt);font-family:Segoe UI,Arial,sans-serif}
@@ -120,44 +120,6 @@ header,.grid,.total{display:none!important}
 .summary-section{margin-top:24px}
 @media(max-width:1000px){.v6-cards{grid-template-columns:repeat(2,1fr)}}
 </style>
-
-<style>
-/* V11 Compacto — mais rotas visíveis em tela, sem alterar dados/automação */
-.toolbar{padding:7px 22px}
-.toolbar button{padding:7px 12px;font-size:12px}
-.wrap{max-width:none;width:100%;padding:14px 22px 18px}
-.v6-top{margin-bottom:8px}
-.v6-brand{padding-bottom:8px;margin-bottom:9px}
-.v6-logo{height:44px;max-width:175px}
-.v6-brand-left{gap:11px}
-.v6-brand-title{font-size:23px}
-.v6-brand-sub{font-size:9px;margin-top:1px}
-.v6-update{font-size:9px}.v6-update b{font-size:10px}
-.v6-cards{gap:7px}
-.v6-card{min-height:64px;padding:9px 12px}
-.v6-card .lbl{font-size:9px}
-.v6-card .val{font-size:24px;margin-top:5px}
-.v6-legend{margin:7px 0 3px;gap:14px;font-size:8px}
-.v6-dot{width:8px;height:8px}
-.section{margin-top:9px}
-.section h2{font-size:18px;margin:0 0 2px}
-.note{font-size:9px;margin-top:3px}
-.route-monitor{height:calc(100vh - 325px);max-height:none;min-height:360px;margin-top:6px;overflow:auto}
-.routes{min-width:0;width:100%;table-layout:fixed}
-.routes th,.routes td{padding:4px 3px;font-size:9px;line-height:1.15}
-.routes thead th{font-size:8px}
-.routes thead tr:nth-child(2) th{top:27px}
-.routes td.dest{min-width:0;font-size:9px}
-.routes td.rota{min-width:0}
-.routes td.status{font-size:9px}
-.summary-section{margin-top:14px}
-footer{margin-top:12px;font-size:9px}
-@media(max-width:1350px){
- .v6-brand-title{font-size:20px}
- .routes th,.routes td{font-size:8px;padding:3px 2px}
- .routes thead th{font-size:7px}
-}
-</style>
 </head>
 <body>
 <div class="toolbar"><span id="dataStatus" style="margin-right:auto;color:#91a0b6;align-self:center;font-size:12px">Dados do painel</span><button onclick="saveData()">Salvar alterações</button><button onclick="resetData()">Restaurar dados</button><button onclick="window.print()">Imprimir / PDF</button></div>
@@ -190,10 +152,10 @@ footer{margin-top:12px;font-size:9px}
   <div class="summary route-monitor">
     <table class="routes">
       <colgroup>
-        <col style="width:235px">
-        <col style="width:72px">
-        <col span="12" style="width:58px">
-        <col style="width:92px">
+        <col style="width:300px">
+        <col style="width:90px">
+        <col span="12" style="width:78px">
+        <col style="width:105px">
       </colgroup>
       <thead>
         <tr>
