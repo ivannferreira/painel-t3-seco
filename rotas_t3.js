@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 14:24:32",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 14:31:33",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -27,7 +27,7 @@
 {destino:"PORTO ALEGRE + APUCARANA",rota:"02202",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"02206",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"02302",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"PORTO ALEGRE + APUCARANA",rota:"01402",sep:[0,0,0,0],c1:[11,0,0,0],c2:[11,0,0,0],status:"PENDENTE"},
+{destino:"PORTO ALEGRE + APUCARANA",rota:"01402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01404",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01521",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -44,11 +44,11 @@
 {destino:"BELÉM",rota:"15202",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELÉM",rota:"15301",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELÉM",rota:"15603",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"TERESINA / S. LUIS / BELÉM",rota:"14601",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,6,0,0],status:"PENDENTE"},
+{destino:"TERESINA / S. LUIS / BELÉM",rota:"14601",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"TERESINA / S. LUIS / BELÉM",rota:"20101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"TERESINA / S. LUIS / BELÉM",rota:"20102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"TERESINA / S. LUIS / BELÉM",rota:"20201",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"TERESINA / S. LUIS / BELÉM",rota:"15302",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,15,0,0],status:"PENDENTE"},
+{destino:"TERESINA / S. LUIS / BELÉM",rota:"15302",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04701",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04702",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04703",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
