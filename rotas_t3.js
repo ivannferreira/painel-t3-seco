@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 19:25:26",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 19:32:26",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -63,14 +63,14 @@
 {destino:"SP",rota:"0470C",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"0470D",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIBEIRÃO PRETO 1°",rota:"16101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"RIBEIRÃO PRETO 1°",rota:"16121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,1,0],status:"PENDENTE"},
+{destino:"RIBEIRÃO PRETO 1°",rota:"16121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIBEIRÃO PRETO 2°",rota:"16122",sep:[0,0,0,0],c1:[0,0,9,0],c2:[0,31,9,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO 2°",rota:"16123",sep:[0,0,0,0],c1:[0,0,10,1],c2:[0,15,10,1],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27201",sep:[0,0,0,0],c1:[0,0,15,0],c2:[0,50,15,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27202",sep:[0,0,0,0],c1:[0,0,10,0],c2:[0,66,10,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27203",sep:[0,0,0,0],c1:[4,0,16,0],c2:[5,148,16,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27204",sep:[0,0,0,0],c1:[0,41,19,0],c2:[0,75,19,0],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27205",sep:[0,0,0,1],c1:[0,0,25,1],c2:[23,149,25,1],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27205",sep:[0,0,0,1],c1:[0,0,25,1],c2:[22,149,25,1],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G1",sep:[0,19,0,0],c1:[248,59,7,0],c2:[248,92,7,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G2",sep:[0,0,0,0],c1:[107,0,10,0],c2:[107,24,10,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"22A01",sep:[0,0,0,0],c1:[130,0,57,15],c2:[130,32,57,15],status:"PENDENTE"},
