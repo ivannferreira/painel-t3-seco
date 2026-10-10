@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 11:50:41",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 11:57:45",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -77,12 +77,12 @@
 {destino:"GUARULHOS",rota:"221G3",sep:[9,136,14,0],c1:[231,136,15,0],c2:[231,136,15,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G4",sep:[41,72,7,0],c1:[210,72,7,0],c2:[210,72,7,0],status:"PENDENTE"},
 {destino:"GOIÂNIA (MISTA)",rota:"18201",sep:[1,23,8,0],c1:[128,23,8,0],c2:[128,23,8,0],status:"PENDENTE"},
-{destino:"GOIÂNIA (MISTA)",rota:"18501",sep:[154,127,11,0],c1:[321,127,11,0],c2:[321,127,11,0],status:"PENDENTE"},
+{destino:"GOIÂNIA (MISTA)",rota:"18501",sep:[136,127,11,0],c1:[321,127,11,0],c2:[321,127,11,0],status:"PENDENTE"},
 {destino:"GOIÂNIA (MISTA)",rota:"19401",sep:[93,36,3,0],c1:[127,36,3,0],c2:[127,36,3,0],status:"PENDENTE"},
 {destino:"GOIÂNIA (MISTA)",rota:"19402",sep:[60,45,27,1],c1:[153,45,27,1],c2:[153,45,27,1],status:"PENDENTE"},
 {destino:"GOIÂNIA (MISTA)",rota:"19421",sep:[51,33,3,0],c1:[99,33,3,0],c2:[99,33,3,0],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO 1°",rota:"03201",sep:[74,29,12,0],c1:[168,29,12,0],c2:[168,29,12,0],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO 1°",rota:"032D3",sep:[82,11,31,4],c1:[88,11,31,4],c2:[88,11,31,4],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO 1°",rota:"03201",sep:[55,29,12,0],c1:[168,29,12,0],c2:[168,29,12,0],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO 1°",rota:"032D3",sep:[79,11,31,4],c1:[88,11,31,4],c2:[88,11,31,4],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1°",rota:"03206",sep:[246,64,21,6],c1:[246,64,21,6],c2:[246,64,21,6],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1°",rota:"03208",sep:[230,62,24,0],c1:[230,62,24,0],c2:[230,62,24,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1°",rota:"03209",sep:[158,49,10,0],c1:[158,49,10,0],c2:[158,49,10,0],status:"PENDENTE"},
