@@ -192,6 +192,17 @@ html, body {
 }
 </style>
 
+
+<style>
+/* V12 — monitoramento com altura automática e sem rolagem vertical interna */
+.route-monitor{
+  height:auto !important;
+  max-height:none !important;
+  min-height:0 !important;
+  overflow-y:visible !important;
+}
+</style>
+
 </head>
 <body>
 <div class="toolbar"><span id="dataStatus" style="margin-right:auto;color:#91a0b6;align-self:center;font-size:12px">Dados do painel</span><button onclick="saveData()">Salvar alterações</button><button onclick="resetData()">Restaurar dados</button><button onclick="window.print()">Imprimir / PDF</button></div>
