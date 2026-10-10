@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 06:22:37",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 06:29:36",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,51,0,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,69,0,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,102,0,0],status:"PENDENTE"},
@@ -25,10 +25,10 @@
 {destino:"MARÍLIA",rota:"07122",sep:[0,0,0,0],c1:[246,0,8,0],c2:[246,8,8,0],status:"PENDENTE"},
 {destino:"MARÍLIA",rota:"07301",sep:[0,0,0,0],c1:[212,20,39,5],c2:[212,20,39,5],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"02202",sep:[0,0,0,0],c1:[172,12,11,3],c2:[172,85,11,3],status:"PENDENTE"},
-{destino:"PORTO ALEGRE + APUCARANA",rota:"02206",sep:[0,0,0,0],c1:[157,24,11,0],c2:[157,53,11,0],status:"PENDENTE"},
+{destino:"PORTO ALEGRE + APUCARANA",rota:"02206",sep:[0,0,0,0],c1:[157,12,11,0],c2:[157,53,11,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"02302",sep:[0,0,0,0],c1:[80,0,1,0],c2:[80,21,1,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01402",sep:[0,0,0,0],c1:[168,15,6,0],c2:[168,27,6,0],status:"PENDENTE"},
-{destino:"PORTO ALEGRE + APUCARANA",rota:"01403",sep:[0,6,0,0],c1:[319,107,18,0],c2:[319,107,18,0],status:"PENDENTE"},
+{destino:"PORTO ALEGRE + APUCARANA",rota:"01403",sep:[0,0,0,0],c1:[319,103,18,0],c2:[319,107,18,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01404",sep:[0,0,0,0],c1:[127,37,12,0],c2:[127,39,12,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01521",sep:[0,0,0,0],c1:[19,0,0,0],c2:[19,4,0,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01522",sep:[0,0,0,0],c1:[9,0,0,0],c2:[9,0,0,0],status:"PENDENTE"},
