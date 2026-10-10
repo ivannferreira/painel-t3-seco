@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 19:04:32",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 19:11:32",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -62,8 +62,8 @@
 {destino:"SP",rota:"0470B",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"0470C",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"0470D",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"RIBEIRÃO PRETO 1°",rota:"16101",sep:[0,0,0,0],c1:[0,0,8,0],c2:[0,29,8,0],status:"PENDENTE"},
-{destino:"RIBEIRÃO PRETO 1°",rota:"16121",sep:[0,0,0,0],c1:[0,0,17,0],c2:[0,29,17,0],status:"PENDENTE"},
+{destino:"RIBEIRÃO PRETO 1°",rota:"16101",sep:[0,0,0,0],c1:[0,0,5,0],c2:[0,29,8,0],status:"PENDENTE"},
+{destino:"RIBEIRÃO PRETO 1°",rota:"16121",sep:[0,0,0,0],c1:[0,0,12,0],c2:[0,29,17,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO 2°",rota:"16122",sep:[0,0,0,0],c1:[0,0,9,0],c2:[0,31,9,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO 2°",rota:"16123",sep:[0,0,0,0],c1:[0,0,10,1],c2:[0,15,10,1],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27201",sep:[0,0,0,0],c1:[3,0,12,0],c2:[3,50,12,0],status:"PENDENTE"},
