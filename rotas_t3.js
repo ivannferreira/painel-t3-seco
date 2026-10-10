@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 18:36:37",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 18:43:35",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -68,7 +68,7 @@
 {destino:"RIBEIRÃO PRETO 2°",rota:"16123",sep:[0,0,0,0],c1:[0,0,10,1],c2:[0,15,10,1],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27201",sep:[0,0,0,0],c1:[3,0,12,0],c2:[3,50,12,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27202",sep:[0,0,0,0],c1:[0,0,10,0],c2:[0,66,10,0],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27203",sep:[0,0,0,0],c1:[9,0,16,0],c2:[10,148,16,0],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27203",sep:[0,0,0,0],c1:[4,0,16,0],c2:[5,148,16,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27204",sep:[0,0,0,0],c1:[0,41,19,0],c2:[0,75,19,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27205",sep:[0,0,0,1],c1:[3,0,24,1],c2:[26,149,24,1],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G1",sep:[0,19,0,0],c1:[248,59,7,0],c2:[248,92,7,0],status:"PENDENTE"},
@@ -77,7 +77,7 @@
 {destino:"GUARULHOS",rota:"221G3",sep:[0,0,0,0],c1:[231,0,15,0],c2:[231,136,15,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G4",sep:[0,0,0,0],c1:[209,1,7,0],c2:[209,72,7,0],status:"PENDENTE"},
 {destino:"GOIÂNIA (MISTA)",rota:"18201",sep:[0,0,0,0],c1:[128,0,8,0],c2:[128,23,8,0],status:"PENDENTE"},
-{destino:"GOIÂNIA (MISTA)",rota:"18501",sep:[0,84,0,0],c1:[317,125,11,0],c2:[317,127,11,0],status:"PENDENTE"},
+{destino:"GOIÂNIA (MISTA)",rota:"18501",sep:[0,82,0,0],c1:[317,125,11,0],c2:[317,127,11,0],status:"PENDENTE"},
 {destino:"GOIÂNIA (MISTA)",rota:"19401",sep:[0,19,0,0],c1:[121,19,3,0],c2:[121,36,3,0],status:"PENDENTE"},
 {destino:"GOIÂNIA (MISTA)",rota:"19402",sep:[0,20,0,0],c1:[153,20,27,1],c2:[153,45,27,1],status:"PENDENTE"},
 {destino:"GOIÂNIA (MISTA)",rota:"19421",sep:[0,0,0,0],c1:[99,0,3,0],c2:[99,33,3,0],status:"PENDENTE"},
@@ -93,7 +93,7 @@
 {destino:"RIO DE JANEIRO 2°",rota:"03202",sep:[0,0,14,0],c1:[27,0,14,0],c2:[27,2,14,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2°",rota:"03204",sep:[0,0,5,6],c1:[11,0,5,6],c2:[11,0,5,6],status:"PENDENTE"},
 {destino:"CAMPO GRANDE 1°",rota:"08303",sep:[76,0,4,0],c1:[188,0,4,0],c2:[188,11,4,0],status:"PENDENTE"},
-{destino:"CAMPO GRANDE 1°",rota:"08401",sep:[49,3,4,0],c1:[89,3,4,0],c2:[89,3,4,0],status:"PENDENTE"},
+{destino:"CAMPO GRANDE 1°",rota:"08401",sep:[43,3,4,0],c1:[89,3,4,0],c2:[89,3,4,0],status:"PENDENTE"},
 {destino:"CAMPO GRANDE 1°",rota:"08402",sep:[108,7,13,0],c1:[161,7,13,0],c2:[161,7,13,0],status:"PENDENTE"},
 {destino:"CUIABÁ",rota:"09401",sep:[131,2,9,0],c1:[131,2,9,0],c2:[151,8,9,0],status:"PENDENTE"},
 {destino:"CUIABÁ",rota:"09501",sep:[193,16,14,0],c1:[193,16,14,0],c2:[193,16,14,0],status:"PENDENTE"},
