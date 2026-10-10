@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 18:43:35",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 18:50:33",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -70,7 +70,7 @@
 {destino:"TABOÃO",rota:"27202",sep:[0,0,0,0],c1:[0,0,10,0],c2:[0,66,10,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27203",sep:[0,0,0,0],c1:[4,0,16,0],c2:[5,148,16,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27204",sep:[0,0,0,0],c1:[0,41,19,0],c2:[0,75,19,0],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27205",sep:[0,0,0,1],c1:[3,0,24,1],c2:[26,149,24,1],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27205",sep:[0,0,0,1],c1:[2,0,24,1],c2:[26,149,24,1],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G1",sep:[0,19,0,0],c1:[248,59,7,0],c2:[248,92,7,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G2",sep:[0,0,0,0],c1:[107,0,10,0],c2:[107,24,10,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"22A01",sep:[0,0,0,0],c1:[130,0,57,15],c2:[130,32,57,15],status:"PENDENTE"},
