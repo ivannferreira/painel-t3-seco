@@ -158,6 +158,40 @@ footer{margin-top:12px;font-size:9px}
  .routes thead th{font-size:7px}
 }
 </style>
+
+<style>
+/* Ajuste de exibição em monitor 1920x1080 — preserva layout e automação */
+html, body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.wrap {
+  width: 100%;
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 28px;
+  padding-right: 28px;
+}
+.route-monitor,
+.summary-section,
+.summary {
+  width: 100%;
+  max-width: 100%;
+}
+.routes {
+  width: 100%;
+  max-width: 100%;
+}
+.routes th:first-child,
+.routes td:first-child,
+.summary th:first-child,
+.summary td:first-child {
+  padding-left: 12px;
+}
+</style>
+
 </head>
 <body>
 <div class="toolbar"><span id="dataStatus" style="margin-right:auto;color:#91a0b6;align-self:center;font-size:12px">Dados do painel</span><button onclick="saveData()">Salvar alterações</button><button onclick="resetData()">Restaurar dados</button><button onclick="window.print()">Imprimir / PDF</button></div>
