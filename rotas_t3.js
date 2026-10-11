@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"11/10/2026 17:12:27",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"11/10/2026 17:19:26",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -105,11 +105,11 @@
 {destino:"SP(1)",rota:"04222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP(1)",rota:"04223",sep:[0,0,0,0],c1:[0,0,0,0],c2:[5,0,0,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04224",sep:[0,0,0,0],c1:[209,0,8,0],c2:[243,23,9,0],status:"PENDENTE"},
-{destino:"SP(1)",rota:"04225",sep:[0,0,0,0],c1:[0,0,13,0],c2:[0,42,13,5],status:"PENDENTE"},
+{destino:"SP(1)",rota:"04225",sep:[0,0,0,0],c1:[0,0,4,0],c2:[0,42,13,5],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04226",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP(1)",rota:"04201",sep:[0,0,0,0],c1:[1,0,0,0],c2:[1,0,0,0],status:"PENDENTE"},
+{destino:"SP(1)",rota:"04201",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP(1)",rota:"04203",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP(1)",rota:"04204",sep:[0,0,0,0],c1:[1,0,37,3],c2:[3,62,37,3],status:"PENDENTE"},
+{destino:"SP(1)",rota:"04204",sep:[0,0,0,0],c1:[1,0,18,3],c2:[3,62,37,3],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04205",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP(1)",rota:"04206",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP(1)",rota:"04207",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
