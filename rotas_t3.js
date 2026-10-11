@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"11/10/2026 01:07:45",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"11/10/2026 01:14:42",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -72,7 +72,7 @@
 {destino:"TABOÃO",rota:"27204",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"TABOÃO",rota:"27205",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"GUARULHOS",rota:"221G1",sep:[0,0,0,0],c1:[249,0,6,0],c2:[249,92,6,0],status:"PENDENTE"},
-{destino:"GUARULHOS",rota:"221G2",sep:[0,0,0,0],c1:[7,0,10,0],c2:[107,24,10,0],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"221G2",sep:[0,0,0,0],c1:[2,0,10,0],c2:[3,24,10,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"22A01",sep:[0,0,0,0],c1:[130,0,57,15],c2:[130,32,57,15],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G3",sep:[0,0,0,0],c1:[3,0,14,0],c2:[3,136,14,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G4",sep:[0,0,0,0],c1:[4,1,0,0],c2:[4,72,0,0],status:"PENDENTE"},
@@ -106,7 +106,7 @@
 {destino:"SP(1)",rota:"04223",sep:[278,28,15,2],c1:[278,28,15,2],c2:[316,33,15,2],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04224",sep:[211,0,9,0],c1:[211,2,9,0],c2:[245,23,9,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04225",sep:[341,38,13,5],c1:[341,38,13,5],c2:[373,42,13,5],status:"PENDENTE"},
-{destino:"SP(1)",rota:"04226",sep:[167,14,9,0],c1:[196,14,9,0],c2:[214,18,9,0],status:"PENDENTE"},
+{destino:"SP(1)",rota:"04226",sep:[164,14,9,0],c1:[196,14,9,0],c2:[214,18,9,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04201",sep:[182,82,15,0],c1:[182,82,15,0],c2:[182,82,15,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04203",sep:[183,4,1,0],c1:[183,4,1,0],c2:[196,9,1,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04204",sep:[276,15,37,3],c1:[276,50,37,3],c2:[332,62,37,3],status:"PENDENTE"},
