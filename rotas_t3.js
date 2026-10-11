@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 22:48:11",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"10/10/2026 22:55:09",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -100,8 +100,8 @@
 {destino:"CUIABÁ",rota:"09621",sep:[0,7,11,0],c1:[59,7,11,0],c2:[98,22,11,0],status:"PENDENTE"},
 {destino:"SALVADOR",rota:"11602",sep:[88,35,2,0],c1:[88,35,2,0],c2:[88,35,2,0],status:"PENDENTE"},
 {destino:"SALVADOR",rota:"11101",sep:[15,61,10,1],c1:[128,61,10,1],c2:[128,61,10,1],status:"PENDENTE"},
-{destino:"SALVADOR",rota:"11103",sep:[29,6,2,0],c1:[154,6,2,0],c2:[167,6,2,0],status:"PENDENTE"},
-{destino:"SALVADOR",rota:"11203",sep:[126,18,3,0],c1:[126,18,3,0],c2:[126,18,3,0],status:"PENDENTE"},
+{destino:"SALVADOR",rota:"11103",sep:[20,2,2,0],c1:[154,6,2,0],c2:[167,6,2,0],status:"PENDENTE"},
+{destino:"SALVADOR",rota:"11203",sep:[104,16,3,0],c1:[126,18,3,0],c2:[126,18,3,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04222",sep:[168,15,6,0],c1:[168,15,6,0],c2:[168,15,6,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04223",sep:[288,28,15,2],c1:[288,28,15,2],c2:[326,33,15,2],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04224",sep:[211,2,9,0],c1:[211,2,9,0],c2:[245,23,9,0],status:"PENDENTE"},
