@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"11/10/2026 05:53:47",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"11/10/2026 06:00:44",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -71,11 +71,11 @@
 {destino:"TABOÃO",rota:"27203",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"TABOÃO",rota:"27204",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"TABOÃO",rota:"27205",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"GUARULHOS",rota:"221G1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[1,0,0,0],status:"PENDENTE"},
-{destino:"GUARULHOS",rota:"221G2",sep:[0,0,0,0],c1:[0,0,1,0],c2:[1,0,1,0],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"221G1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
+{destino:"GUARULHOS",rota:"221G2",sep:[0,0,0,0],c1:[0,0,0,0],c2:[1,0,0,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"22A01",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"GUARULHOS",rota:"221G3",sep:[0,0,0,0],c1:[0,0,0,0],c2:[1,0,1,0],status:"PENDENTE"},
-{destino:"GUARULHOS",rota:"221G4",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,1,0,0],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"221G3",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,1,0],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"221G4",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"GOIÂNIA (MISTA)",rota:"18201",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"GOIÂNIA (MISTA)",rota:"18501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"GOIÂNIA (MISTA)",rota:"19401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
