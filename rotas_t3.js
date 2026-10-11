@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"11/10/2026 15:20:09",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"11/10/2026 15:27:11",rotas:[
 {destino:"RIO DE JANEIRO",rota:"03105",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"03102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO",rota:"031D6",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -94,7 +94,7 @@
 {destino:"RIO DE JANEIRO 2°",rota:"03204",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CAMPO GRANDE 1°",rota:"08303",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CAMPO GRANDE 1°",rota:"08401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"CAMPO GRANDE 1°",rota:"08402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,3,5,0],status:"PENDENTE"},
+{destino:"CAMPO GRANDE 1°",rota:"08402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CUIABÁ",rota:"09401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CUIABÁ",rota:"09501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CUIABÁ",rota:"09621",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -105,7 +105,7 @@
 {destino:"SP(1)",rota:"04222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP(1)",rota:"04223",sep:[0,0,0,0],c1:[41,0,15,2],c2:[316,33,15,2],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04224",sep:[0,0,0,0],c1:[209,0,9,0],c2:[243,23,9,0],status:"PENDENTE"},
-{destino:"SP(1)",rota:"04225",sep:[0,0,0,0],c1:[0,0,13,0],c2:[210,42,13,5],status:"PENDENTE"},
+{destino:"SP(1)",rota:"04225",sep:[0,0,0,0],c1:[0,0,13,0],c2:[70,42,13,5],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04226",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP(1)",rota:"04201",sep:[0,0,0,0],c1:[1,0,8,0],c2:[4,19,14,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04203",sep:[0,0,0,0],c1:[1,0,0,0],c2:[1,0,0,0],status:"PENDENTE"},
