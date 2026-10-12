@@ -1,7 +1,7 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"12/10/2026 01:30:36",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"12/10/2026 01:36:40",rotas:[
 {destino:"SP(1)",rota:"04224",sep:[0,0,0,0],c1:[1,0,8,0],c2:[37,23,9,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04204",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"RIBEIRÃO PRETO",rota:"16201",sep:[0,0,0,0],c1:[269,0,15,0],c2:[269,100,15,0],status:"PENDENTE"},
+{destino:"RIBEIRÃO PRETO",rota:"16201",sep:[0,0,0,0],c1:[157,0,15,0],c2:[269,100,15,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO",rota:"16221",sep:[0,0,0,0],c1:[0,0,0,3],c2:[0,0,0,7],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27301",sep:[0,0,0,0],c1:[189,48,4,0],c2:[189,48,4,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27302",sep:[0,0,0,0],c1:[172,30,1,0],c2:[172,30,1,0],status:"PENDENTE"},
@@ -20,7 +20,7 @@
 {destino:"RIO DE JANEIRO",rota:"03307",sep:[0,17,9,0],c1:[59,17,9,0],c2:[59,17,9,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO",rota:"03308",sep:[0,25,12,0],c1:[156,25,12,0],c2:[156,25,12,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO",rota:"033D1",sep:[0,78,19,0],c1:[205,78,19,3],c2:[205,78,19,3],status:"PENDENTE"},
-{destino:"DISTRITO",rota:"19501",sep:[66,36,14,0],c1:[236,36,14,0],c2:[236,36,14,0],status:"PENDENTE"},
+{destino:"DISTRITO",rota:"19501",sep:[49,36,14,0],c1:[236,36,14,0],c2:[236,36,14,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19503",sep:[436,116,17,0],c1:[436,116,17,0],c2:[436,116,17,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19601",sep:[151,36,9,1],c1:[151,36,9,1],c2:[151,36,9,1],status:"PENDENTE"},
 {destino:"ESPIRITO SANTO 1°",rota:"17401",sep:[278,45,6,0],c1:[278,45,6,0],c2:[278,45,6,0],status:"PENDENTE"},
