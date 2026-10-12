@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"12/10/2026 05:45:00",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"12/10/2026 05:50:55",rotas:[
 {destino:"SP(1)",rota:"04224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP(1)",rota:"04204",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIBEIRÃO PRETO",rota:"16201",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -22,7 +22,7 @@
 {destino:"RIO DE JANEIRO",rota:"033D1",sep:[0,78,0,0],c1:[205,78,19,3],c2:[205,78,19,3],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19501",sep:[0,36,5,0],c1:[236,36,14,0],c2:[236,36,14,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19503",sep:[0,116,0,0],c1:[435,116,17,0],c2:[435,116,17,0],status:"PENDENTE"},
-{destino:"DISTRITO",rota:"19601",sep:[8,36,9,0],c1:[151,36,9,1],c2:[151,36,9,1],status:"PENDENTE"},
+{destino:"DISTRITO",rota:"19601",sep:[4,36,9,0],c1:[151,36,9,1],c2:[151,36,9,1],status:"PENDENTE"},
 {destino:"ESPIRITO SANTO 1°",rota:"17401",sep:[278,45,6,0],c1:[278,45,6,0],c2:[278,45,6,0],status:"PENDENTE"},
 {destino:"ESPIRITO SANTO 1°",rota:"17433",sep:[202,11,11,0],c1:[232,11,11,0],c2:[318,51,11,0],status:"PENDENTE"},
 {destino:"CAMPO GRANDE 2°",rota:"08501",sep:[0,0,0,0],c1:[311,0,11,0],c2:[311,64,11,0],status:"PENDENTE"},
