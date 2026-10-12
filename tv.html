@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>TV T3 - Painéis</title>
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: #001722;
+    }
+
+    iframe {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      border: 0;
+    }
+  </style>
+</head>
+
+<body>
+
+<iframe id="painel"></iframe>
+
+<script>
+  const paineis = [
+    "https://ivannferreira.github.io/painel-t3-seco/",
+    "https://ivannferreira.github.io/produtividade-t3-seco/"
+  ];
+
+  let atual = 0;
+  const painel = document.getElementById("painel");
+
+  function mostrarPainel() {
+    painel.src = paineis[atual] + "?tv=" + Date.now();
+  }
+
+  mostrarPainel();
+
+  setInterval(() => {
+    atual = (atual + 1) % paineis.length;
+    mostrarPainel();
+  }, 30000);
+</script>
+
+</body>
+</html>
