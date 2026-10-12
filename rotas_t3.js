@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"12/10/2026 02:18:51",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"12/10/2026 02:24:53",rotas:[
 {destino:"SP(1)",rota:"04224",sep:[0,0,0,0],c1:[1,0,8,0],c2:[37,23,9,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04204",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIBEIRÃO PRETO",rota:"16201",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,26,0,0],status:"PENDENTE"},
