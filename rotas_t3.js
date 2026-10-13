@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"12/10/2026 21:56:58",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"12/10/2026 22:03:21",rotas:[
 {destino:"DISTRITO",rota:"19501",sep:[0,0,0,0],c1:[114,0,14,0],c2:[236,36,14,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19503",sep:[0,0,0,0],c1:[263,0,16,0],c2:[436,116,16,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19601",sep:[0,0,0,0],c1:[151,0,9,1],c2:[151,36,9,1],status:"PENDENTE"},
@@ -16,13 +16,13 @@
 {destino:"SP",rota:"04327",sep:[0,0,0,0],c1:[294,0,17,15],c2:[294,163,17,15],status:"PENDENTE"},
 {destino:"SP",rota:"04305",sep:[0,0,0,0],c1:[240,0,12,0],c2:[240,85,12,0],status:"PENDENTE"},
 {destino:"SP",rota:"04306",sep:[0,0,0,0],c1:[355,0,18,2],c2:[355,75,18,2],status:"PENDENTE"},
-{destino:"RIBEIRÃO PRETO",rota:"16301",sep:[12,0,8,0],c1:[107,0,8,0],c2:[107,3,8,0],status:"PENDENTE"},
+{destino:"RIBEIRÃO PRETO",rota:"16301",sep:[2,0,8,0],c1:[107,0,8,0],c2:[107,3,8,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO",rota:"16302",sep:[0,0,6,0],c1:[134,0,6,0],c2:[157,6,6,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO",rota:"16303",sep:[1,0,9,0],c1:[182,0,9,0],c2:[201,13,9,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO",rota:"16304",sep:[3,0,10,0],c1:[249,0,10,0],c2:[249,17,10,0],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27401",sep:[144,0,9,0],c1:[144,38,9,2],c2:[144,38,9,2],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27402",sep:[146,0,6,0],c1:[204,16,6,0],c2:[204,64,6,0],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27403",sep:[157,53,11,0],c1:[229,119,11,0],c2:[229,128,11,0],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27401",sep:[144,0,9,0],c1:[144,37,9,2],c2:[144,38,9,2],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27402",sep:[146,0,6,0],c1:[204,0,6,0],c2:[204,64,6,0],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27403",sep:[149,50,11,0],c1:[229,119,11,0],c2:[229,128,11,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27404",sep:[0,150,11,0],c1:[299,150,11,0],c2:[299,150,11,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27405",sep:[115,201,14,0],c1:[313,201,14,0],c2:[313,201,14,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"223G1",sep:[216,76,11,0],c1:[216,76,11,0],c2:[216,76,11,0],status:"PENDENTE"},
