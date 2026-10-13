@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"12/10/2026 22:35:22",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"12/10/2026 22:41:43",rotas:[
 {destino:"DISTRITO",rota:"19501",sep:[0,0,0,0],c1:[114,0,14,0],c2:[236,36,14,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19503",sep:[0,0,0,0],c1:[263,0,16,0],c2:[436,116,16,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19601",sep:[0,0,0,0],c1:[151,0,9,1],c2:[151,36,9,1],status:"PENDENTE"},
@@ -16,8 +16,8 @@
 {destino:"SP",rota:"04327",sep:[0,0,0,0],c1:[294,0,17,15],c2:[294,163,17,15],status:"PENDENTE"},
 {destino:"SP",rota:"04305",sep:[0,0,0,0],c1:[240,0,12,0],c2:[240,85,12,0],status:"PENDENTE"},
 {destino:"SP",rota:"04306",sep:[0,0,0,0],c1:[355,0,18,2],c2:[355,75,18,2],status:"PENDENTE"},
-{destino:"SP",rota:"04Q07",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP",rota:"04Q08",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
+{destino:"SP",rota:"04Q07",sep:[3,0,0,0],c1:[3,0,0,0],c2:[3,0,0,0],status:"PENDENTE"},
+{destino:"SP",rota:"04Q08",sep:[41,19,6,0],c1:[41,19,6,0],c2:[41,19,6,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO",rota:"16301",sep:[0,0,8,0],c1:[106,0,8,0],c2:[106,3,8,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO",rota:"16302",sep:[0,0,6,0],c1:[134,0,6,0],c2:[157,6,6,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO",rota:"16303",sep:[0,0,9,0],c1:[179,0,9,0],c2:[198,13,9,0],status:"PENDENTE"},
