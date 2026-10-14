@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"14/10/2026 19:04:57",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"14/10/2026 19:11:34",rotas:[
 {destino:"RIO DE JANEIRO 2°",rota:"03403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO 2°",rota:"03405",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO 2°",rota:"03406",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -32,10 +32,10 @@
 {destino:"GUARULHOS",rota:"224G3",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"GUARULHOS",rota:"224G4",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"TERESINA / SÃO LUIS / BELÉM",rota:"14301",sep:[0,0,0,0],c1:[0,0,1,0],c2:[106,30,1,0],status:"PENDENTE"},
-{destino:"TERESINA / SÃO LUIS / BELÉM",rota:"20401",sep:[0,0,0,0],c1:[0,0,13,0],c2:[62,3,13,0],status:"PENDENTE"},
+{destino:"TERESINA / SÃO LUIS / BELÉM",rota:"20401",sep:[0,0,0,0],c1:[0,0,13,0],c2:[2,3,13,0],status:"PENDENTE"},
 {destino:"TERESINA / SÃO LUIS / BELÉM",rota:"20402",sep:[0,0,0,0],c1:[2,0,7,0],c2:[113,8,7,0],status:"PENDENTE"},
 {destino:"TERESINA / SÃO LUIS / BELÉM",rota:"20501",sep:[0,0,0,0],c1:[3,0,24,1],c2:[119,5,24,1],status:"PENDENTE"},
-{destino:"TERESINA / SÃO LUIS / BELÉM",rota:"15602",sep:[0,0,0,0],c1:[0,0,11,0],c2:[266,15,11,0],status:"PENDENTE"},
+{destino:"TERESINA / SÃO LUIS / BELÉM",rota:"15602",sep:[0,0,0,0],c1:[0,0,11,0],c2:[134,15,11,0],status:"PENDENTE"},
 {destino:"BELÉM",rota:"15401",sep:[0,0,0,0],c1:[2,0,0,0],c2:[5,0,0,0],status:"PENDENTE"},
 {destino:"BELÉM",rota:"15402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELÉM",rota:"15501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
