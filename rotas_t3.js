@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"14/10/2026 05:47:14",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"14/10/2026 05:53:47",rotas:[
 {destino:"RIO DE JANEIRO 2°",rota:"03403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO 2°",rota:"03405",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO 2°",rota:"03406",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -6,9 +6,9 @@
 {destino:"RIO DE JANEIRO 2°",rota:"03504",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"MARÍLIA 2°",rota:"07401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"MARÍLIA 2°",rota:"07521",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"ESPÍRITO SANTO 2°",rota:"17502",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,15,0,0],status:"PENDENTE"},
-{destino:"ESPÍRITO SANTO 2°",rota:"17501",sep:[0,0,0,0],c1:[0,0,1,0],c2:[1,0,1,0],status:"PENDENTE"},
-{destino:"ESPÍRITO SANTO 2°",rota:"17601",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,1,0],status:"PENDENTE"},
+{destino:"ESPÍRITO SANTO 2°",rota:"17502",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
+{destino:"ESPÍRITO SANTO 2°",rota:"17501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
+{destino:"ESPÍRITO SANTO 2°",rota:"17601",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04404",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04405",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -45,7 +45,7 @@
 {destino:"JOÃO PESSOA",rota:"12D15",sep:[52,0,0,0],c1:[52,0,2,0],c2:[52,8,2,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D03",sep:[1,0,0,0],c1:[75,0,6,0],c2:[75,13,6,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D05",sep:[49,0,0,0],c1:[90,0,1,0],c2:[90,11,1,0],status:"PENDENTE"},
-{destino:"JOÃO PESSOA",rota:"12D07",sep:[3,0,0,0],c1:[173,0,1,0],c2:[173,14,1,0],status:"PENDENTE"},
+{destino:"JOÃO PESSOA",rota:"12D07",sep:[2,0,0,0],c1:[173,0,1,0],c2:[173,14,1,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D19",sep:[0,0,0,0],c1:[19,0,0,0],c2:[19,0,0,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D01",sep:[6,0,0,0],c1:[94,0,2,0],c2:[94,8,2,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D09",sep:[0,0,0,0],c1:[6,0,0,0],c2:[6,0,0,0],status:"PENDENTE"},
