@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"14/10/2026 00:38:58",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"14/10/2026 00:45:31",rotas:[
 {destino:"RIO DE JANEIRO 2°",rota:"03403",sep:[0,0,0,0],c1:[137,0,12,2],c2:[137,38,12,2],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2°",rota:"03405",sep:[0,0,0,0],c1:[110,0,6,0],c2:[110,46,6,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2°",rota:"03406",sep:[0,0,0,0],c1:[173,0,5,0],c2:[173,8,5,0],status:"PENDENTE"},
@@ -13,7 +13,7 @@
 {destino:"SP",rota:"04403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04404",sep:[0,0,0,0],c1:[22,0,30,0],c2:[23,70,30,0],status:"PENDENTE"},
 {destino:"SP",rota:"04405",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP",rota:"04406",sep:[0,0,0,0],c1:[4,0,1,1],c2:[4,13,16,1],status:"PENDENTE"},
+{destino:"SP",rota:"04406",sep:[0,0,0,0],c1:[4,0,0,1],c2:[4,13,0,1],status:"PENDENTE"},
 {destino:"SP",rota:"04408",sep:[0,0,0,0],c1:[14,0,0,0],c2:[17,24,0,0],status:"PENDENTE"},
 {destino:"SP",rota:"04409",sep:[0,0,0,0],c1:[0,0,0,0],c2:[1,0,0,0],status:"PENDENTE"},
 {destino:"SAMU3",rota:"SAMU3",sep:[0,0,0,0],c1:[962,0,0,0],c2:[962,0,0,0],status:"PENDENTE"},
@@ -35,7 +35,7 @@
 {destino:"TERESINA / SÃO LUIS / BELÉM",rota:"14301",sep:[106,30,1,0],c1:[106,30,1,0],c2:[106,30,1,0],status:"PENDENTE"},
 {destino:"TERESINA / SÃO LUIS / BELÉM",rota:"20401",sep:[62,5,13,0],c1:[62,5,13,0],c2:[62,5,13,0],status:"PENDENTE"},
 {destino:"TERESINA / SÃO LUIS / BELÉM",rota:"20402",sep:[113,8,7,0],c1:[113,8,7,0],c2:[113,8,7,0],status:"PENDENTE"},
-{destino:"TERESINA / SÃO LUIS / BELÉM",rota:"20501",sep:[119,6,24,1],c1:[119,6,24,1],c2:[119,6,24,1],status:"PENDENTE"},
+{destino:"TERESINA / SÃO LUIS / BELÉM",rota:"20501",sep:[89,6,24,1],c1:[119,6,24,1],c2:[119,6,24,1],status:"PENDENTE"},
 {destino:"TERESINA / SÃO LUIS / BELÉM",rota:"15602",sep:[266,15,11,0],c1:[266,15,11,0],c2:[266,15,11,0],status:"PENDENTE"},
 {destino:"BELÉM",rota:"15401",sep:[180,30,5,0],c1:[180,30,5,0],c2:[180,30,5,0],status:"PENDENTE"},
 {destino:"BELÉM",rota:"15402",sep:[94,19,5,3],c1:[94,19,5,3],c2:[94,19,5,3],status:"PENDENTE"},
