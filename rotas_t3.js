@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"14/10/2026 06:00:20",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"14/10/2026 06:06:58",rotas:[
 {destino:"RIO DE JANEIRO 2°",rota:"03403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO 2°",rota:"03405",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO 2°",rota:"03406",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -43,11 +43,11 @@
 {destino:"BELÉM",rota:"15601",sep:[37,18,0,0],c1:[69,18,1,0],c2:[69,33,1,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D13",sep:[0,0,0,0],c1:[36,0,3,0],c2:[36,2,3,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D15",sep:[52,0,0,0],c1:[52,0,2,0],c2:[52,8,2,0],status:"PENDENTE"},
-{destino:"JOÃO PESSOA",rota:"12D03",sep:[1,0,0,0],c1:[75,0,6,0],c2:[75,13,6,0],status:"PENDENTE"},
+{destino:"JOÃO PESSOA",rota:"12D03",sep:[0,0,0,0],c1:[75,0,6,0],c2:[75,13,6,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D05",sep:[49,0,0,0],c1:[90,0,1,0],c2:[90,11,1,0],status:"PENDENTE"},
-{destino:"JOÃO PESSOA",rota:"12D07",sep:[2,0,0,0],c1:[173,0,1,0],c2:[173,14,1,0],status:"PENDENTE"},
+{destino:"JOÃO PESSOA",rota:"12D07",sep:[0,0,0,0],c1:[173,0,1,0],c2:[173,14,1,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D19",sep:[0,0,0,0],c1:[19,0,0,0],c2:[19,0,0,0],status:"PENDENTE"},
-{destino:"JOÃO PESSOA",rota:"12D01",sep:[3,0,0,0],c1:[94,0,2,0],c2:[94,8,2,0],status:"PENDENTE"},
+{destino:"JOÃO PESSOA",rota:"12D01",sep:[0,0,0,0],c1:[94,0,2,0],c2:[94,8,2,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D09",sep:[0,0,0,0],c1:[6,0,0,0],c2:[6,0,0,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D11",sep:[61,0,0,0],c1:[61,1,4,0],c2:[61,12,4,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D17",sep:[0,0,0,0],c1:[50,0,0,0],c2:[50,2,0,0],status:"PENDENTE"},
