@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"15/10/2026 06:28:08",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"15/10/2026 06:34:54",rotas:[
 {destino:"ARAUCARIA 2º",rota:"02522",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"ARAUCARIA 2º",rota:"02524",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"ARAUCARIA 2º",rota:"02521",sep:[0,0,0,0],c1:[110,0,2,0],c2:[112,46,13,2],status:"PENDENTE"},
@@ -11,7 +11,7 @@
 {destino:"RIO DE JANEIRO 1º",rota:"035D3",sep:[0,0,0,0],c1:[69,0,10,3],c2:[69,8,10,3],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1º",rota:"03506",sep:[0,0,0,0],c1:[172,0,19,0],c2:[172,116,19,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1º",rota:"03508",sep:[0,0,0,0],c1:[146,0,4,0],c2:[146,52,4,0],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO 1º",rota:"03523",sep:[0,0,0,0],c1:[294,0,13,0],c2:[294,21,13,0],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO 1º",rota:"03523",sep:[0,0,0,0],c1:[201,0,13,0],c2:[251,21,13,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2º",rota:"03509",sep:[0,0,0,0],c1:[115,0,7,0],c2:[115,30,7,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2º",rota:"03522",sep:[0,0,0,0],c1:[229,0,34,4],c2:[229,20,34,4],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2º",rota:"035D6",sep:[0,0,0,0],c1:[145,0,10,0],c2:[145,24,10,0],status:"PENDENTE"},
