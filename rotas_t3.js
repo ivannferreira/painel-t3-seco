@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"15/10/2026 14:23:52",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"15/10/2026 14:30:40",rotas:[
 {destino:"ARAUCARIA 2º",rota:"02522",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"ARAUCARIA 2º",rota:"02524",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"ARAUCARIA 2º",rota:"02521",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -47,7 +47,7 @@
 {destino:"TABOÃO",rota:"27601",sep:[0,0,0,0],c1:[0,0,17,2],c2:[0,45,17,2],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27602",sep:[0,0,0,0],c1:[0,0,30,2],c2:[0,120,30,2],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27603",sep:[0,0,0,0],c1:[0,0,6,0],c2:[0,40,6,0],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27604",sep:[0,0,0,0],c1:[0,0,23,4],c2:[1,56,23,4],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27604",sep:[0,0,0,0],c1:[0,0,23,4],c2:[0,56,23,4],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27605",sep:[0,0,0,0],c1:[16,0,13,0],c2:[182,32,13,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"225G1",sep:[0,0,1,0],c1:[115,0,5,0],c2:[115,43,5,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"225G2",sep:[0,0,0,0],c1:[50,0,3,0],c2:[50,0,3,0],status:"PENDENTE"},
@@ -80,11 +80,11 @@
 {destino:"SP(1)",rota:"04622",sep:[2,25,6,6],c1:[274,25,6,6],c2:[274,25,6,6],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04623",sep:[8,79,18,0],c1:[401,79,18,0],c2:[401,79,18,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04624",sep:[16,18,18,0],c1:[308,18,18,0],c2:[308,18,18,0],status:"PENDENTE"},
-{destino:"SP(1)",rota:"04625",sep:[295,15,21,0],c1:[434,15,21,0],c2:[434,15,21,0],status:"PENDENTE"},
+{destino:"SP(1)",rota:"04625",sep:[254,15,21,0],c1:[434,15,21,0],c2:[434,15,21,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04628",sep:[7,24,17,0],c1:[283,24,18,0],c2:[283,28,18,0],status:"PENDENTE"},
-{destino:"SP(1)",rota:"04602",sep:[220,3,3,0],c1:[220,3,3,0],c2:[220,3,3,0],status:"PENDENTE"},
+{destino:"SP(1)",rota:"04602",sep:[215,3,3,0],c1:[220,3,3,0],c2:[220,3,3,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04603",sep:[222,19,9,0],c1:[222,19,9,0],c2:[222,19,9,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04604",sep:[4,3,7,0],c1:[66,3,7,0],c2:[66,3,7,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04626",sep:[113,80,48,19],c1:[257,80,48,19],c2:[257,80,48,19],status:"PENDENTE"},
-{destino:"SP(1)",rota:"04627",sep:[76,219,51,7],c1:[419,219,51,7],c2:[419,219,51,7],status:"PENDENTE"},
+{destino:"SP(1)",rota:"04627",sep:[66,219,51,7],c1:[419,219,51,7],c2:[419,219,51,7],status:"PENDENTE"},
 ]};
