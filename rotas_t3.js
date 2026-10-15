@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"14/10/2026 21:36:32",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"14/10/2026 21:43:06",rotas:[
 {destino:"RIO DE JANEIRO 2°",rota:"03403",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO 2°",rota:"03405",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO 2°",rota:"03406",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -85,7 +85,7 @@
 {destino:"PORTO ALEGRE + APUCARANA",rota:"24201",sep:[0,0,0,0],c1:[83,0,1,0],c2:[83,18,1,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"24202",sep:[0,0,0,0],c1:[20,0,0,0],c2:[20,0,0,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"24301",sep:[0,0,0,0],c1:[7,0,4,0],c2:[7,1,4,0],status:"PENDENTE"},
-{destino:"SP(1)",rota:"04522",sep:[0,0,0,0],c1:[9,0,0,0],c2:[11,0,0,0],status:"PENDENTE"},
+{destino:"SP(1)",rota:"04522",sep:[0,0,0,0],c1:[2,0,0,0],c2:[4,0,0,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04523",sep:[0,0,0,0],c1:[234,0,5,0],c2:[234,23,5,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04524",sep:[0,0,0,0],c1:[376,0,11,0],c2:[376,19,11,0],status:"PENDENTE"},
 {destino:"SP(1)",rota:"04525",sep:[2,0,0,0],c1:[309,2,11,0],c2:[309,34,11,0],status:"PENDENTE"},
