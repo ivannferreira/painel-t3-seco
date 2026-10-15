@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"15/10/2026 00:14:41",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"15/10/2026 00:21:29",rotas:[
 {destino:"ARAUCARIA 2º",rota:"02522",sep:[0,0,0,0],c1:[73,0,0,0],c2:[90,29,5,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2º",rota:"02524",sep:[0,0,0,0],c1:[25,0,0,0],c2:[25,1,0,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2º",rota:"02521",sep:[0,0,0,0],c1:[110,0,2,0],c2:[112,46,13,2],status:"PENDENTE"},
