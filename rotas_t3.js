@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"16/10/2026 01:16:43",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"16/10/2026 01:23:46",rotas:[
 {destino:"RIO DE JANEIRO 1º",rota:"03601",sep:[0,0,0,0],c1:[3,1,1,0],c2:[3,1,1,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1º",rota:"03604",sep:[0,0,0,0],c1:[12,6,26,4],c2:[204,51,26,4],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1º",rota:"03605",sep:[0,0,0,0],c1:[17,0,5,0],c2:[69,11,5,0],status:"PENDENTE"},
