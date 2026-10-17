@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 17:45:48",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 17:52:58",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -66,8 +66,8 @@
 {destino:"TABOÃO",rota:"27201",sep:[1,45,0,0],c1:[138,50,19,0],c2:[138,50,19,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27202",sep:[1,32,0,6],c1:[167,36,18,6],c2:[167,36,18,6],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27203",sep:[0,48,0,0],c1:[230,48,10,0],c2:[230,48,10,0],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27204",sep:[0,247,0,0],c1:[2,251,17,0],c2:[2,251,17,0],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27205",sep:[0,14,0,0],c1:[115,34,1,0],c2:[115,34,1,0],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27204",sep:[0,211,0,0],c1:[2,247,17,0],c2:[2,251,17,0],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27205",sep:[0,0,0,0],c1:[115,34,1,0],c2:[115,34,1,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G1",sep:[0,61,0,0],c1:[127,61,7,0],c2:[127,61,7,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G2",sep:[0,13,0,0],c1:[83,13,10,0],c2:[83,13,10,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"22A01",sep:[0,6,0,0],c1:[109,6,50,9],c2:[109,8,50,9],status:"PENDENTE"},
@@ -84,8 +84,8 @@
 {destino:"BELÉM",rota:"15202",sep:[0,2,0,0],c1:[130,2,2,0],c2:[145,11,2,0],status:"PENDENTE"},
 {destino:"BELÉM",rota:"15301",sep:[0,13,0,0],c1:[50,13,4,0],c2:[109,25,4,0],status:"PENDENTE"},
 {destino:"BELÉM",rota:"15603",sep:[0,0,0,0],c1:[0,0,0,0],c2:[36,29,0,0],status:"PENDENTE"},
-{destino:"GOIANIA (MISTA)",rota:"18201",sep:[80,15,4,0],c1:[210,15,8,0],c2:[210,15,8,0],status:"PENDENTE"},
-{destino:"GOIANIA (MISTA)",rota:"18501",sep:[56,24,8,0],c1:[143,24,8,0],c2:[143,24,8,0],status:"PENDENTE"},
+{destino:"GOIANIA (MISTA)",rota:"18201",sep:[78,15,0,0],c1:[210,15,8,0],c2:[210,15,8,0],status:"PENDENTE"},
+{destino:"GOIANIA (MISTA)",rota:"18501",sep:[31,24,5,0],c1:[143,24,8,0],c2:[143,24,8,0],status:"PENDENTE"},
 {destino:"GOIANIA (MISTA)",rota:"19301",sep:[4,88,13,0],c1:[195,88,14,0],c2:[195,88,14,0],status:"PENDENTE"},
 {destino:"GOIANIA (MISTA)",rota:"19401",sep:[88,33,13,0],c1:[145,33,13,0],c2:[145,33,13,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"03201",sep:[113,25,0,0],c1:[113,25,8,0],c2:[113,25,8,0],status:"PENDENTE"},
