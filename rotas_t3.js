@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 14:25:25",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 14:32:36",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -64,8 +64,8 @@
 {destino:"RIBEIRÃO 2°",rota:"16122",sep:[0,16,0,0],c1:[182,16,7,0],c2:[182,16,7,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO 2°",rota:"16123",sep:[0,9,0,0],c1:[226,9,13,1],c2:[226,9,13,1],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27201",sep:[1,50,0,0],c1:[138,50,19,0],c2:[138,50,19,0],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27202",sep:[1,36,10,6],c1:[167,36,18,6],c2:[167,36,18,6],status:"PENDENTE"},
-{destino:"TABOÃO",rota:"27203",sep:[1,48,1,0],c1:[230,48,10,0],c2:[230,48,10,0],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27202",sep:[1,36,2,6],c1:[167,36,18,6],c2:[167,36,18,6],status:"PENDENTE"},
+{destino:"TABOÃO",rota:"27203",sep:[1,48,0,0],c1:[230,48,10,0],c2:[230,48,10,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27204",sep:[0,251,0,0],c1:[284,251,17,0],c2:[284,251,17,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27205",sep:[14,34,0,0],c1:[115,34,1,0],c2:[115,34,1,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"221G1",sep:[0,61,0,0],c1:[127,61,7,0],c2:[127,61,7,0],status:"PENDENTE"},
@@ -101,7 +101,7 @@
 {destino:"ARAUCARIA 2°",rota:"02221",sep:[53,0,6,0],c1:[53,0,6,0],c2:[53,14,6,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02223",sep:[53,0,8,2],c1:[53,0,8,2],c2:[53,12,8,2],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02201",sep:[343,0,24,0],c1:[343,0,24,0],c2:[343,207,24,0],status:"PENDENTE"},
-{destino:"ARAUCARIA 2°",rota:"02202",sep:[124,0,18,1],c1:[124,14,18,1],c2:[124,46,18,1],status:"PENDENTE"},
+{destino:"ARAUCARIA 2°",rota:"02202",sep:[124,0,18,1],c1:[124,4,18,1],c2:[124,46,18,1],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02206",sep:[225,0,8,0],c1:[225,0,8,0],c2:[225,55,8,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02302",sep:[63,0,7,0],c1:[63,0,7,0],c2:[63,13,7,0],status:"PENDENTE"},
 {destino:"MARILIA 2°",rota:"07221",sep:[237,56,38,0],c1:[237,56,38,0],c2:[297,84,38,0],status:"PENDENTE"},
