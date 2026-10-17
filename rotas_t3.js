@@ -1,6 +1,6 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 05:50:47",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 05:57:55",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,1,0,0],c2:[0,1,0,0],status:"PENDENTE"},
+{destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,1,0,0],c2:[0,1,0,0],status:"PENDENTE"},
 {destino:"DISTRITO",rota:"19201",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19202",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -23,10 +23,10 @@
 {destino:"ESPIRITO SANTO",rota:"17133",sep:[0,0,0,0],c1:[130,0,2,0],c2:[131,7,2,0],status:"PENDENTE"},
 {destino:"ESPIRITO SANTO",rota:"17202",sep:[0,0,0,0],c1:[184,0,6,0],c2:[184,16,6,0],status:"PENDENTE"},
 {destino:"ESPIRITO SANTO",rota:"17201",sep:[0,0,0,0],c1:[170,0,4,0],c2:[170,4,4,0],status:"PENDENTE"},
-{destino:"ARAUCARIA 1º",rota:"02101",sep:[6,112,0,0],c1:[192,112,11,0],c2:[192,112,11,0],status:"PENDENTE"},
+{destino:"ARAUCARIA 1º",rota:"02101",sep:[2,112,0,0],c1:[192,112,11,0],c2:[192,112,11,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 1º",rota:"02102",sep:[0,19,0,0],c1:[95,19,2,0],c2:[95,19,2,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 1º",rota:"02106",sep:[0,154,0,0],c1:[195,154,23,0],c2:[195,154,23,0],status:"PENDENTE"},
-{destino:"ARAUCARIA 1º",rota:"02104",sep:[5,4,0,0],c1:[75,4,0,0],c2:[75,4,0,0],status:"PENDENTE"},
+{destino:"ARAUCARIA 1º",rota:"02104",sep:[1,4,0,0],c1:[75,4,0,0],c2:[75,4,0,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 1º",rota:"02105",sep:[0,20,0,0],c1:[37,20,5,0],c2:[37,20,5,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 1º",rota:"02107",sep:[0,5,0,0],c1:[24,5,0,0],c2:[24,5,0,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 1º",rota:"02121",sep:[0,10,0,0],c1:[57,10,10,0],c2:[57,10,10,0],status:"PENDENTE"},
