@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 06:33:34",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 06:40:41",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,1,0,0],c2:[0,1,0,0],status:"PENDENTE"},
@@ -12,9 +12,9 @@
 {destino:"RIO DE JANEIRO 2º",rota:"031D7",sep:[0,0,0,0],c1:[0,7,0,0],c2:[2,56,1,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2º",rota:"031D2",sep:[0,0,0,0],c1:[358,1,16,0],c2:[358,120,16,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2º",rota:"03223",sep:[0,0,0,0],c1:[268,0,9,0],c2:[271,18,9,0],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO 2º",rota:"03222",sep:[0,0,0,0],c1:[167,0,10,2],c2:[169,13,10,2],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO 2º",rota:"03222",sep:[0,0,0,0],c1:[119,0,10,2],c2:[161,13,10,2],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2º",rota:"03204",sep:[0,0,0,0],c1:[1,0,0,6],c2:[1,0,0,6],status:"PENDENTE"},
-{destino:"CAMPO GRANDE",rota:"08101",sep:[0,0,0,0],c1:[84,0,2,0],c2:[84,0,2,0],status:"PENDENTE"},
+{destino:"CAMPO GRANDE",rota:"08101",sep:[0,0,0,0],c1:[63,0,2,0],c2:[84,0,2,0],status:"PENDENTE"},
 {destino:"CAMPO GRANDE",rota:"08102",sep:[0,0,0,0],c1:[180,0,6,0],c2:[180,6,6,0],status:"PENDENTE"},
 {destino:"CAMPO GRANDE",rota:"08202",sep:[0,0,0,0],c1:[185,0,3,0],c2:[185,31,3,0],status:"PENDENTE"},
 {destino:"CAMPO GRANDE",rota:"08303",sep:[0,0,0,0],c1:[172,0,12,0],c2:[172,8,12,0],status:"PENDENTE"},
@@ -38,7 +38,7 @@
 {destino:"MARILIA 1º",rota:"07101",sep:[0,7,0,0],c1:[208,7,7,0],c2:[208,7,7,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01402",sep:[1,13,6,0],c1:[73,13,6,0],c2:[73,13,6,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01404",sep:[0,1,5,0],c1:[57,1,5,0],c2:[57,1,5,0],status:"PENDENTE"},
-{destino:"PORTO ALEGRE + APUCARANA",rota:"01403",sep:[28,138,21,0],c1:[294,138,23,0],c2:[294,145,23,0],status:"PENDENTE"},
+{destino:"PORTO ALEGRE + APUCARANA",rota:"01403",sep:[26,138,21,0],c1:[294,138,23,0],c2:[294,145,23,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01522",sep:[0,6,2,0],c1:[13,6,2,0],c2:[13,6,2,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01521",sep:[0,2,0,0],c1:[8,2,0,0],c2:[8,2,0,0],status:"PENDENTE"},
 {destino:"PORTO ALEGRE + APUCARANA",rota:"01523",sep:[0,10,0,0],c1:[23,10,0,0],c2:[23,10,0,0],status:"PENDENTE"},
