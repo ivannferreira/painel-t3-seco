@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 12:16:40",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 12:23:48",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -15,8 +15,8 @@
 {destino:"RIO DE JANEIRO 2º",rota:"03222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[3,0,0,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 2º",rota:"03204",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CAMPO GRANDE",rota:"08101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"CAMPO GRANDE",rota:"08102",sep:[0,0,0,0],c1:[1,0,0,0],c2:[14,0,0,0],status:"PENDENTE"},
-{destino:"CAMPO GRANDE",rota:"08202",sep:[0,0,0,0],c1:[2,0,0,0],c2:[2,0,0,0],status:"PENDENTE"},
+{destino:"CAMPO GRANDE",rota:"08102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[14,0,0,0],status:"PENDENTE"},
+{destino:"CAMPO GRANDE",rota:"08202",sep:[0,0,0,0],c1:[0,0,0,0],c2:[2,0,0,0],status:"PENDENTE"},
 {destino:"CAMPO GRANDE",rota:"08303",sep:[0,0,0,0],c1:[0,0,0,0],c2:[14,0,0,0],status:"PENDENTE"},
 {destino:"CAMPO GRANDE",rota:"08304",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"ESPIRITO SANTO",rota:"17101",sep:[0,0,0,0],c1:[0,0,5,0],c2:[0,14,5,0],status:"PENDENTE"},
