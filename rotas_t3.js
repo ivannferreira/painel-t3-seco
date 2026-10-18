@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 22:23:57",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 22:31:04",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -68,9 +68,9 @@
 {destino:"TABOÃO",rota:"27203",sep:[0,1,0,0],c1:[0,1,0,0],c2:[0,1,0,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27204",sep:[0,1,0,0],c1:[0,1,0,0],c2:[0,1,0,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27205",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"GUARULHOS",rota:"221G1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,1,0,0],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"221G1",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"GUARULHOS",rota:"221G2",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"GUARULHOS",rota:"22A01",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,2,0,0],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"22A01",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"GUARULHOS",rota:"221G3",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"GUARULHOS",rota:"221G4",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"TERESINA / S. LUÍS + BELÉM",rota:"14601",sep:[0,3,0,0],c1:[24,3,2,0],c2:[24,3,2,0],status:"PENDENTE"},
@@ -94,7 +94,7 @@
 {destino:"RIO DE JANEIRO (1)",rota:"03208",sep:[0,31,0,0],c1:[146,31,7,0],c2:[146,31,7,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"03209",sep:[0,44,0,0],c1:[150,44,10,0],c2:[150,44,10,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"032D6",sep:[58,15,0,0],c1:[89,15,10,0],c2:[89,15,10,0],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO (1)",rota:"032D2",sep:[1,2,0,0],c1:[187,2,0,0],c2:[187,2,1,0],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO (1)",rota:"032D2",sep:[0,2,0,0],c1:[187,2,0,0],c2:[187,2,1,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"03202",sep:[68,2,0,2],c1:[68,2,6,2],c2:[68,2,6,2],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02222",sep:[0,0,0,0],c1:[104,0,8,0],c2:[104,13,8,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02224",sep:[0,0,0,0],c1:[25,0,0,0],c2:[25,3,0,0],status:"PENDENTE"},
