@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"18/10/2026 15:07:59",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"18/10/2026 15:15:07",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -115,11 +115,11 @@
 {destino:"SP (1)",rota:"04224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP (1)",rota:"04225",sep:[1,0,0,0],c1:[234,0,19,0],c2:[260,36,19,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04226",sep:[0,0,0,0],c1:[190,0,9,0],c2:[216,22,9,2],status:"PENDENTE"},
-{destino:"SP (1)",rota:"04203",sep:[0,1,0,0],c1:[0,1,0,0],c2:[0,1,0,0],status:"PENDENTE"},
+{destino:"SP (1)",rota:"04203",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP (1)",rota:"04204",sep:[2,0,0,0],c1:[191,0,43,0],c2:[249,34,43,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04205",sep:[2,0,5,0],c1:[2,0,5,0],c2:[2,0,5,0],status:"PENDENTE"},
-{destino:"SP (1)",rota:"04206",sep:[0,0,0,0],c1:[2,0,1,0],c2:[8,0,5,0],status:"PENDENTE"},
+{destino:"SP (1)",rota:"04206",sep:[0,0,0,0],c1:[0,0,1,0],c2:[6,0,5,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04207",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP (1)",rota:"0420A",sep:[0,1,0,0],c1:[21,1,0,0],c2:[698,305,44,0],status:"PENDENTE"},
-{destino:"SP (1)",rota:"0420B",sep:[0,0,0,0],c1:[19,0,15,0],c2:[136,22,15,10],status:"PENDENTE"},
+{destino:"SP (1)",rota:"0420A",sep:[0,0,0,0],c1:[21,0,0,0],c2:[583,304,44,0],status:"PENDENTE"},
+{destino:"SP (1)",rota:"0420B",sep:[0,0,0,0],c1:[15,0,15,0],c2:[136,22,15,10],status:"PENDENTE"},
 ]};
