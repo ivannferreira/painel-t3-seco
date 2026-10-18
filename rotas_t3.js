@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"18/10/2026 15:57:57",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"18/10/2026 16:05:04",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -118,8 +118,8 @@
 {destino:"SP (1)",rota:"04203",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP (1)",rota:"04204",sep:[2,0,0,0],c1:[191,0,43,0],c2:[249,34,43,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04205",sep:[2,0,5,0],c1:[2,0,5,0],c2:[2,0,5,0],status:"PENDENTE"},
-{destino:"SP (1)",rota:"04206",sep:[0,0,0,0],c1:[0,0,1,0],c2:[4,0,1,0],status:"PENDENTE"},
+{destino:"SP (1)",rota:"04206",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP (1)",rota:"04207",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP (1)",rota:"0420A",sep:[0,0,0,0],c1:[21,0,0,0],c2:[140,304,44,0],status:"PENDENTE"},
-{destino:"SP (1)",rota:"0420B",sep:[0,0,0,0],c1:[14,0,0,0],c2:[15,4,0,10],status:"PENDENTE"},
+{destino:"SP (1)",rota:"0420A",sep:[0,0,0,0],c1:[21,0,0,0],c2:[26,304,44,0],status:"PENDENTE"},
+{destino:"SP (1)",rota:"0420B",sep:[0,0,0,0],c1:[14,0,0,0],c2:[14,2,0,0],status:"PENDENTE"},
 ]};
