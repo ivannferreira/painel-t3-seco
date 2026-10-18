@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 22:52:33",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"17/10/2026 22:59:41",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -100,9 +100,9 @@
 {destino:"ARAUCARIA 2°",rota:"02224",sep:[0,0,0,0],c1:[25,0,0,0],c2:[25,3,0,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02221",sep:[5,0,0,0],c1:[53,0,6,0],c2:[53,14,6,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02223",sep:[0,0,0,2],c1:[53,0,8,2],c2:[53,12,8,2],status:"PENDENTE"},
-{destino:"ARAUCARIA 2°",rota:"02201",sep:[180,0,0,0],c1:[343,0,24,0],c2:[343,207,24,0],status:"PENDENTE"},
-{destino:"ARAUCARIA 2°",rota:"02202",sep:[71,0,0,1],c1:[124,4,18,1],c2:[124,46,18,1],status:"PENDENTE"},
-{destino:"ARAUCARIA 2°",rota:"02206",sep:[100,0,0,0],c1:[225,0,8,0],c2:[225,55,8,0],status:"PENDENTE"},
+{destino:"ARAUCARIA 2°",rota:"02201",sep:[141,0,0,0],c1:[343,0,24,0],c2:[343,207,24,0],status:"PENDENTE"},
+{destino:"ARAUCARIA 2°",rota:"02202",sep:[48,0,0,1],c1:[124,4,18,1],c2:[124,46,18,1],status:"PENDENTE"},
+{destino:"ARAUCARIA 2°",rota:"02206",sep:[69,0,0,0],c1:[225,0,8,0],c2:[225,55,8,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02302",sep:[1,0,0,0],c1:[63,0,7,0],c2:[63,13,7,0],status:"PENDENTE"},
 {destino:"MARILIA 2°",rota:"07221",sep:[237,56,0,0],c1:[237,56,38,0],c2:[297,84,38,0],status:"PENDENTE"},
 {destino:"MARILIA 2°",rota:"07301",sep:[164,16,0,0],c1:[164,16,8,0],c2:[164,16,8,0],status:"PENDENTE"},
