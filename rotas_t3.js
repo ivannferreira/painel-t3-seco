@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"18/10/2026 05:52:10",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"18/10/2026 05:59:14",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -85,8 +85,8 @@
 {destino:"BELÉM",rota:"15301",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELÉM",rota:"15603",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"GOIANIA (MISTA)",rota:"18201",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"GOIANIA (MISTA)",rota:"18501",sep:[0,0,0,0],c1:[1,0,0,0],c2:[1,0,0,0],status:"PENDENTE"},
-{destino:"GOIANIA (MISTA)",rota:"19301",sep:[0,0,0,0],c1:[4,0,0,0],c2:[6,0,0,0],status:"PENDENTE"},
+{destino:"GOIANIA (MISTA)",rota:"18501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[1,0,0,0],status:"PENDENTE"},
+{destino:"GOIANIA (MISTA)",rota:"19301",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"GOIANIA (MISTA)",rota:"19401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIO DE JANEIRO (1)",rota:"03201",sep:[0,0,0,0],c1:[3,0,8,0],c2:[113,25,8,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"032D3",sep:[0,0,0,0],c1:[10,0,17,3],c2:[50,1,17,3],status:"PENDENTE"},
