@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"18/10/2026 04:41:25",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"18/10/2026 04:48:29",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -91,10 +91,10 @@
 {destino:"RIO DE JANEIRO (1)",rota:"03201",sep:[0,0,0,0],c1:[3,0,8,0],c2:[113,25,8,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"032D3",sep:[0,0,0,0],c1:[10,0,17,3],c2:[50,1,17,3],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"03206",sep:[0,0,0,0],c1:[67,0,11,1],c2:[67,12,11,1],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO (1)",rota:"03208",sep:[0,0,0,0],c1:[3,0,7,0],c2:[146,31,7,0],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO (1)",rota:"03209",sep:[0,0,0,0],c1:[12,0,10,0],c2:[150,41,10,0],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO (1)",rota:"03208",sep:[0,0,0,0],c1:[1,0,7,0],c2:[146,31,7,0],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO (1)",rota:"03209",sep:[0,0,0,0],c1:[12,0,10,0],c2:[143,41,10,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"032D6",sep:[1,0,0,0],c1:[89,0,10,0],c2:[89,15,10,0],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO (1)",rota:"032D2",sep:[0,0,0,0],c1:[22,0,0,0],c2:[187,2,1,0],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO (1)",rota:"032D2",sep:[0,0,0,0],c1:[3,0,0,0],c2:[187,2,1,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"03202",sep:[0,0,0,0],c1:[68,0,6,2],c2:[68,2,6,2],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02222",sep:[0,0,0,0],c1:[104,0,8,0],c2:[104,13,8,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02224",sep:[0,0,0,0],c1:[25,0,0,0],c2:[25,3,0,0],status:"PENDENTE"},
