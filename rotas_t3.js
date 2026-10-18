@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"18/10/2026 06:34:40",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"18/10/2026 06:41:47",rotas:[
 {destino:"DISTRITO",rota:"19101",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19102",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"DISTRITO",rota:"19121",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -95,7 +95,7 @@
 {destino:"RIO DE JANEIRO (1)",rota:"03209",sep:[0,0,0,0],c1:[2,0,0,0],c2:[4,41,0,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"032D6",sep:[0,0,0,0],c1:[88,0,10,0],c2:[88,15,10,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO (1)",rota:"032D2",sep:[0,0,0,0],c1:[3,0,0,0],c2:[187,2,1,0],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO (1)",rota:"03202",sep:[0,0,0,0],c1:[68,0,6,2],c2:[68,2,6,2],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO (1)",rota:"03202",sep:[0,0,0,0],c1:[68,0,2,2],c2:[68,2,6,2],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02222",sep:[0,0,0,0],c1:[104,0,8,0],c2:[104,13,8,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02224",sep:[0,0,0,0],c1:[25,0,0,0],c2:[25,3,0,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2°",rota:"02221",sep:[0,0,0,0],c1:[53,0,6,0],c2:[53,14,6,0],status:"PENDENTE"},
