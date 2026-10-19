@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 18:19:03",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 18:25:11",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -51,12 +51,12 @@
 {destino:"CROSSDOCKING DISTRITO",rota:"19601",sep:[0,0,0,0],c1:[0,0,9,0],c2:[0,53,9,0],status:"PENDENTE"},
 {destino:"CIB05",rota:"CIB05",sep:[3,619,6,158],c1:[744,3073,346,224],c2:[744,3073,346,224],status:"PENDENTE"},
 {destino:"SP",rota:"04321",sep:[0,0,0,0],c1:[0,1,7,0],c2:[0,35,7,0],status:"PENDENTE"},
-{destino:"SP",rota:"04322",sep:[0,0,0,0],c1:[0,4,2,0],c2:[0,4,6,0],status:"PENDENTE"},
+{destino:"SP",rota:"04322",sep:[0,0,0,0],c1:[0,4,1,0],c2:[0,4,6,0],status:"PENDENTE"},
 {destino:"SP",rota:"04324",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04325",sep:[0,0,0,0],c1:[381,0,21,0],c2:[381,20,21,0],status:"PENDENTE"},
 {destino:"SP",rota:"04301",sep:[5,1,0,0],c1:[5,1,0,0],c2:[5,1,0,0],status:"PENDENTE"},
-{destino:"SP",rota:"04302",sep:[0,0,0,0],c1:[2,0,1,0],c2:[15,6,1,0],status:"PENDENTE"},
-{destino:"SP",rota:"04303",sep:[0,2,2,0],c1:[44,2,8,0],c2:[65,35,8,0],status:"PENDENTE"},
+{destino:"SP",rota:"04302",sep:[0,0,0,0],c1:[0,0,1,0],c2:[13,6,1,0],status:"PENDENTE"},
+{destino:"SP",rota:"04303",sep:[0,2,2,0],c1:[2,2,8,0],c2:[65,35,8,0],status:"PENDENTE"},
 {destino:"SP",rota:"04304",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04326",sep:[1,1,1,0],c1:[305,2,53,13],c2:[305,103,53,13],status:"PENDENTE"},
 {destino:"SP",rota:"04327",sep:[5,1,1,0],c1:[334,1,41,8],c2:[334,119,41,8],status:"PENDENTE"},
@@ -78,6 +78,6 @@
 {destino:"CROSSDOCKING MARILIA 1°",rota:"07401",sep:[174,11,9,0],c1:[174,11,9,0],c2:[174,11,9,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16301",sep:[2,0,0,0],c1:[111,0,5,2],c2:[111,0,5,2],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16302",sep:[27,6,0,0],c1:[182,6,4,0],c2:[182,17,4,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16303",sep:[55,8,0,0],c1:[197,8,9,0],c2:[197,26,9,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16303",sep:[52,8,0,0],c1:[196,8,9,0],c2:[196,26,9,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16304",sep:[1,0,0,0],c1:[224,0,21,2],c2:[224,15,21,2],status:"PENDENTE"},
 ]};
