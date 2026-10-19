@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 20:46:40",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 20:52:34",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -47,7 +47,7 @@
 {destino:"CROSSDOCKING DISTRITO",rota:"19402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING DISTRITO",rota:"19421",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING DISTRITO",rota:"19501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"CROSSDOCKING DISTRITO",rota:"19502",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,2,0,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING DISTRITO",rota:"19502",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING DISTRITO",rota:"19601",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CIB05",rota:"CIB05",sep:[3,619,6,158],c1:[744,3073,346,224],c2:[744,3073,346,224],status:"PENDENTE"},
 {destino:"SP",rota:"04321",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
