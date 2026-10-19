@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 20:22:09",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 20:28:17",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -56,9 +56,9 @@
 {destino:"SP",rota:"04325",sep:[0,0,0,0],c1:[3,0,9,0],c2:[5,20,21,0],status:"PENDENTE"},
 {destino:"SP",rota:"04301",sep:[5,0,0,0],c1:[5,0,0,0],c2:[5,1,0,0],status:"PENDENTE"},
 {destino:"SP",rota:"04302",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP",rota:"04303",sep:[0,0,0,0],c1:[0,0,0,0],c2:[8,0,0,0],status:"PENDENTE"},
+{destino:"SP",rota:"04303",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04304",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP",rota:"04326",sep:[0,0,1,0],c1:[305,1,53,13],c2:[305,103,53,13],status:"PENDENTE"},
+{destino:"SP",rota:"04326",sep:[0,0,1,0],c1:[305,0,53,13],c2:[305,103,53,13],status:"PENDENTE"},
 {destino:"SP",rota:"04327",sep:[0,0,0,0],c1:[334,0,40,8],c2:[334,119,40,8],status:"PENDENTE"},
 {destino:"SP",rota:"04305",sep:[1,0,0,0],c1:[371,1,32,0],c2:[371,86,32,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 2°",rota:"17501",sep:[0,0,3,0],c1:[222,0,3,0],c2:[222,4,3,0],status:"PENDENTE"},
@@ -71,8 +71,8 @@
 {destino:"CROSSDOCKING RIO DE JANEIRO 1º",rota:"034D7",sep:[100,0,0,0],c1:[100,0,16,2],c2:[100,17,16,2],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO 2º",rota:"03405",sep:[115,0,0,0],c1:[115,0,4,0],c2:[115,33,4,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO 2º",rota:"034D3",sep:[259,0,0,0],c1:[259,0,12,0],c2:[259,98,12,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIO DE JANEIRO 2º",rota:"03406",sep:[172,0,2,0],c1:[172,0,7,0],c2:[172,9,7,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIO DE JANEIRO 2º",rota:"03504",sep:[132,0,3,0],c1:[132,0,3,0],c2:[132,1,3,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIO DE JANEIRO 2º",rota:"03406",sep:[172,0,0,0],c1:[172,0,7,0],c2:[172,9,7,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIO DE JANEIRO 2º",rota:"03504",sep:[132,0,0,0],c1:[132,0,3,0],c2:[132,1,3,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING MARILIA 1°",rota:"07421",sep:[168,13,7,0],c1:[168,13,7,0],c2:[168,13,7,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING MARILIA 1°",rota:"07422",sep:[250,10,6,0],c1:[250,10,6,0],c2:[250,10,6,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING MARILIA 1°",rota:"07401",sep:[174,11,9,0],c1:[174,11,9,0],c2:[174,11,9,0],status:"PENDENTE"},
