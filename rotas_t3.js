@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 03:29:31",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 03:35:32",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[0,0,8,0],c2:[0,13,8,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,3,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[0,0,6,0],c2:[2,17,6,0],status:"PENDENTE"},
