@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 11:45:34",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 11:51:42",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -30,7 +30,7 @@
 {destino:"CROSSDOCKING CONTAGEM",rota:"10305",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING CONTAGEM",rota:"10R04",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03301",sep:[0,0,0,0],c1:[8,0,1,1],c2:[8,0,3,1],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03303",sep:[0,0,0,0],c1:[27,0,0,2],c2:[27,18,6,2],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03303",sep:[0,0,0,0],c1:[27,0,0,2],c2:[27,18,1,2],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03304",sep:[0,0,0,0],c1:[24,0,5,1],c2:[27,0,31,1],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03306",sep:[0,0,0,0],c1:[2,0,3,0],c2:[3,0,3,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03308",sep:[0,0,0,0],c1:[0,0,3,0],c2:[0,0,11,0],status:"PENDENTE"},
@@ -55,11 +55,11 @@
 {destino:"SP",rota:"04324",sep:[0,0,2,0],c1:[124,0,5,0],c2:[124,6,5,0],status:"PENDENTE"},
 {destino:"SP",rota:"04325",sep:[52,0,12,0],c1:[382,0,21,0],c2:[382,20,21,0],status:"PENDENTE"},
 {destino:"SP",rota:"04301",sep:[5,1,0,0],c1:[5,1,0,0],c2:[5,1,0,0],status:"PENDENTE"},
-{destino:"SP",rota:"04302",sep:[169,0,0,0],c1:[191,0,1,0],c2:[191,6,1,0],status:"PENDENTE"},
+{destino:"SP",rota:"04302",sep:[157,0,0,0],c1:[191,0,1,0],c2:[191,6,1,0],status:"PENDENTE"},
 {destino:"SP",rota:"04303",sep:[147,2,7,0],c1:[147,2,8,0],c2:[193,35,8,0],status:"PENDENTE"},
 {destino:"SP",rota:"04304",sep:[37,0,1,0],c1:[37,0,5,0],c2:[37,3,5,0],status:"PENDENTE"},
 {destino:"SP",rota:"04326",sep:[162,1,16,0],c1:[305,2,53,13],c2:[305,103,53,13],status:"PENDENTE"},
-{destino:"SP",rota:"04327",sep:[319,3,14,0],c1:[336,41,41,8],c2:[336,120,41,8],status:"PENDENTE"},
+{destino:"SP",rota:"04327",sep:[312,3,14,0],c1:[336,41,41,8],c2:[336,120,41,8],status:"PENDENTE"},
 {destino:"SP",rota:"04305",sep:[373,1,24,0],c1:[373,1,32,0],c2:[373,86,32,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 2°",rota:"17501",sep:[222,0,3,0],c1:[222,0,3,0],c2:[222,4,3,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 2°",rota:"17502",sep:[242,0,6,0],c1:[242,0,6,0],c2:[242,9,6,0],status:"PENDENTE"},
