@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 00:59:42",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 01:05:41",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[1,0,8,0],c2:[104,13,8,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[25,3,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[17,0,6,0],c2:[66,17,6,0],status:"PENDENTE"},
@@ -13,7 +13,7 @@
 {destino:"SP",rota:"04225",sep:[0,0,0,0],c1:[0,0,0,0],c2:[2,0,0,0],status:"PENDENTE"},
 {destino:"SP",rota:"04204",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 1",rota:"17301",sep:[0,0,1,0],c1:[211,0,4,0],c2:[211,5,4,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING ESPIRITO SANTO 1",rota:"17401",sep:[0,0,2,0],c1:[29,0,7,0],c2:[85,24,7,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING ESPIRITO SANTO 1",rota:"17401",sep:[0,0,2,0],c1:[3,0,7,0],c2:[5,24,7,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 1",rota:"17433",sep:[0,0,9,0],c1:[251,0,18,4],c2:[316,59,18,4],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16201",sep:[0,0,0,0],c1:[84,0,8,0],c2:[173,26,8,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16221",sep:[0,0,0,0],c1:[193,0,16,9],c2:[219,28,16,9],status:"PENDENTE"},
@@ -30,7 +30,7 @@
 {destino:"CROSSDOCKING CONTAGEM",rota:"10305",sep:[0,5,8,0],c1:[138,118,8,0],c2:[138,118,8,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING CONTAGEM",rota:"10R04",sep:[5,0,0,0],c1:[5,0,0,0],c2:[5,0,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03301",sep:[42,9,3,0],c1:[42,9,3,1],c2:[42,9,3,1],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03303",sep:[140,15,25,0],c1:[140,20,25,2],c2:[140,20,25,2],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03303",sep:[140,6,25,0],c1:[140,20,25,2],c2:[140,20,25,2],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03304",sep:[190,13,34,0],c1:[190,28,34,1],c2:[190,28,34,1],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03306",sep:[94,10,13,0],c1:[94,16,13,0],c2:[94,16,13,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03308",sep:[140,6,11,0],c1:[140,9,11,0],c2:[140,9,11,0],status:"PENDENTE"},
