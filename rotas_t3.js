@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 19:26:43",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 19:32:50",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -53,14 +53,14 @@
 {destino:"SP",rota:"04321",sep:[0,0,0,0],c1:[0,1,1,0],c2:[0,1,1,0],status:"PENDENTE"},
 {destino:"SP",rota:"04322",sep:[0,0,0,0],c1:[0,4,0,0],c2:[0,4,0,0],status:"PENDENTE"},
 {destino:"SP",rota:"04324",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP",rota:"04325",sep:[0,0,0,0],c1:[381,0,21,0],c2:[381,20,21,0],status:"PENDENTE"},
+{destino:"SP",rota:"04325",sep:[0,0,0,0],c1:[354,0,21,0],c2:[381,20,21,0],status:"PENDENTE"},
 {destino:"SP",rota:"04301",sep:[5,1,0,0],c1:[5,1,0,0],c2:[5,1,0,0],status:"PENDENTE"},
 {destino:"SP",rota:"04302",sep:[0,0,0,0],c1:[0,0,1,0],c2:[0,6,1,0],status:"PENDENTE"},
 {destino:"SP",rota:"04303",sep:[0,0,0,0],c1:[0,0,1,0],c2:[11,2,1,0],status:"PENDENTE"},
 {destino:"SP",rota:"04304",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04326",sep:[1,1,1,0],c1:[305,2,53,13],c2:[305,103,53,13],status:"PENDENTE"},
 {destino:"SP",rota:"04327",sep:[5,1,0,0],c1:[334,1,40,8],c2:[334,119,40,8],status:"PENDENTE"},
-{destino:"SP",rota:"04305",sep:[2,0,0,0],c1:[371,1,32,0],c2:[371,86,32,0],status:"PENDENTE"},
+{destino:"SP",rota:"04305",sep:[1,0,0,0],c1:[371,1,32,0],c2:[371,86,32,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 2°",rota:"17501",sep:[0,0,3,0],c1:[222,0,3,0],c2:[222,4,3,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 2°",rota:"17502",sep:[0,0,6,0],c1:[241,0,6,0],c2:[241,9,6,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 2°",rota:"17601",sep:[0,0,4,0],c1:[218,0,4,0],c2:[218,23,4,0],status:"PENDENTE"},
