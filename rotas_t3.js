@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 06:28:40",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 06:34:38",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -31,7 +31,7 @@
 {destino:"CROSSDOCKING CONTAGEM",rota:"10R04",sep:[0,0,0,0],c1:[5,0,0,0],c2:[5,0,0,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03301",sep:[3,0,0,0],c1:[42,0,3,1],c2:[42,9,3,1],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03303",sep:[29,0,0,0],c1:[140,0,21,2],c2:[140,18,21,2],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03304",sep:[28,0,0,0],c1:[190,0,31,1],c2:[190,28,31,1],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03304",sep:[28,0,0,0],c1:[161,0,31,1],c2:[190,28,31,1],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03306",sep:[0,0,0,0],c1:[94,0,13,0],c2:[94,15,13,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"03308",sep:[8,0,0,0],c1:[140,0,11,0],c2:[140,9,11,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIO DE JANEIRO",rota:"033D1",sep:[12,0,0,0],c1:[177,0,9,0],c2:[177,47,9,0],status:"PENDENTE"},
