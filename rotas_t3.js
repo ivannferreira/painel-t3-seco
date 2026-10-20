@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 21:29:28",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 21:35:40",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -76,8 +76,8 @@
 {destino:"CROSSDOCKING MARILIA 1°",rota:"07421",sep:[168,13,7,0],c1:[168,13,7,0],c2:[168,13,7,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING MARILIA 1°",rota:"07422",sep:[250,10,6,0],c1:[250,10,6,0],c2:[250,10,6,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING MARILIA 1°",rota:"07401",sep:[174,11,9,0],c1:[174,11,9,0],c2:[174,11,9,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16301",sep:[2,0,0,0],c1:[111,0,5,2],c2:[111,0,5,2],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16302",sep:[27,6,0,0],c1:[179,6,7,0],c2:[179,17,7,0],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16301",sep:[1,0,0,0],c1:[111,0,5,2],c2:[111,0,5,2],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16302",sep:[26,6,0,0],c1:[179,6,7,0],c2:[179,17,7,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16303",sep:[22,8,0,0],c1:[196,8,9,0],c2:[196,26,9,0],status:"PENDENTE"},
-{destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16304",sep:[1,0,0,0],c1:[224,0,21,2],c2:[224,15,21,2],status:"PENDENTE"},
+{destino:"CROSSDOCKING RIBEIRÃO PRETO",rota:"16304",sep:[0,0,0,0],c1:[224,0,21,2],c2:[224,15,21,2],status:"PENDENTE"},
 ]};
