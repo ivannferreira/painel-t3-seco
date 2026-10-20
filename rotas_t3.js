@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 22:06:40",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 22:12:49",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -53,7 +53,7 @@
 {destino:"SP",rota:"04321",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04322",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04324",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"SP",rota:"04325",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,21,0],status:"PENDENTE"},
+{destino:"SP",rota:"04325",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04301",sep:[5,0,0,0],c1:[5,0,0,0],c2:[5,1,0,0],status:"PENDENTE"},
 {destino:"SP",rota:"04302",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04303",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
