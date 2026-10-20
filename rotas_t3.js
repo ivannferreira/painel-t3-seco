@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"20/10/2026 14:20:05",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"20/10/2026 14:26:32",rotas:[
 {destino:"SP",rota:"04301",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04326",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04327",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -39,7 +39,7 @@
 {destino:"MARILIA 1°",rota:"07421",sep:[0,0,0,0],c1:[167,0,7,0],c2:[167,13,7,0],status:"PENDENTE"},
 {destino:"MARILIA 1°",rota:"07422",sep:[0,0,0,0],c1:[248,0,6,0],c2:[248,10,6,0],status:"PENDENTE"},
 {destino:"MARILIA 1°",rota:"07401",sep:[0,0,0,0],c1:[171,0,9,0],c2:[171,11,9,0],status:"PENDENTE"},
-{destino:"ESPIRITO SANTO 2°",rota:"17501",sep:[0,0,0,0],c1:[0,0,3,0],c2:[4,0,3,0],status:"PENDENTE"},
+{destino:"ESPIRITO SANTO 2°",rota:"17501",sep:[0,0,0,0],c1:[0,0,3,0],c2:[3,0,3,0],status:"PENDENTE"},
 {destino:"ESPIRITO SANTO 2°",rota:"17502",sep:[0,0,0,0],c1:[3,0,6,0],c2:[4,9,6,0],status:"PENDENTE"},
 {destino:"ESPIRITO SANTO 2°",rota:"17601",sep:[0,0,0,0],c1:[218,0,4,0],c2:[218,23,4,0],status:"PENDENTE"},
 {destino:"TERESINA/S.LUIS/BELEM",rota:"14301",sep:[33,0,0,0],c1:[118,0,6,0],c2:[118,12,6,0],status:"PENDENTE"},
@@ -70,7 +70,7 @@
 {destino:"SP (1)",rota:"04401",sep:[0,0,22,0],c1:[317,3,22,2],c2:[317,36,22,2],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04402",sep:[0,0,12,0],c1:[204,0,12,0],c2:[204,28,12,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04403",sep:[1,0,22,0],c1:[265,2,22,0],c2:[265,115,22,0],status:"PENDENTE"},
-{destino:"SP (1)",rota:"04404",sep:[137,0,40,0],c1:[253,0,40,0],c2:[253,79,40,0],status:"PENDENTE"},
+{destino:"SP (1)",rota:"04404",sep:[104,0,40,0],c1:[253,0,40,0],c2:[253,79,40,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04405",sep:[147,0,11,0],c1:[163,0,11,2],c2:[163,20,11,2],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04406",sep:[165,0,8,0],c1:[204,0,8,2],c2:[204,44,8,2],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04408",sep:[273,0,18,0],c1:[273,0,18,0],c2:[273,112,18,0],status:"PENDENTE"},
