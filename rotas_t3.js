@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 21:04:42",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"19/10/2026 21:10:53",rotas:[
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02222",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02224",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"CROSSDOCKING ARAUCARIA 2",rota:"02221",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -60,7 +60,7 @@
 {destino:"SP",rota:"04304",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04326",sep:[0,0,1,0],c1:[305,0,53,13],c2:[305,103,53,13],status:"PENDENTE"},
 {destino:"SP",rota:"04327",sep:[0,0,0,0],c1:[334,0,40,8],c2:[334,119,40,8],status:"PENDENTE"},
-{destino:"SP",rota:"04305",sep:[1,0,0,0],c1:[371,0,32,0],c2:[371,86,32,0],status:"PENDENTE"},
+{destino:"SP",rota:"04305",sep:[0,0,0,0],c1:[371,0,32,0],c2:[371,86,32,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 2°",rota:"17501",sep:[0,0,3,0],c1:[222,0,3,0],c2:[222,4,3,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 2°",rota:"17502",sep:[0,0,6,0],c1:[241,0,6,0],c2:[241,9,6,0],status:"PENDENTE"},
 {destino:"CROSSDOCKING ESPIRITO SANTO 2°",rota:"17601",sep:[0,0,4,0],c1:[218,0,4,0],c2:[218,23,4,0],status:"PENDENTE"},
