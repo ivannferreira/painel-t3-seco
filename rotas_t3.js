@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"20/10/2026 19:03:39",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"20/10/2026 19:10:08",rotas:[
 {destino:"SP",rota:"04301",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04326",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"04327",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -54,7 +54,7 @@
 {destino:"BELEM",rota:"15601",sep:[4,0,0,0],c1:[89,0,2,0],c2:[89,32,2,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D13",sep:[0,0,0,0],c1:[30,0,4,0],c2:[30,7,4,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D15",sep:[50,0,0,0],c1:[50,0,2,0],c2:[50,12,2,0],status:"PENDENTE"},
-{destino:"JOÃO PESSOA",rota:"12D03",sep:[65,0,0,0],c1:[86,0,5,0],c2:[86,12,5,0],status:"PENDENTE"},
+{destino:"JOÃO PESSOA",rota:"12D03",sep:[37,0,0,0],c1:[86,0,5,0],c2:[86,12,5,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D05",sep:[95,0,0,0],c1:[95,0,2,0],c2:[95,12,2,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D07",sep:[18,0,0,0],c1:[119,0,2,0],c2:[119,11,2,0],status:"PENDENTE"},
 {destino:"JOÃO PESSOA",rota:"12D19",sep:[13,0,0,0],c1:[13,0,2,0],c2:[13,0,2,0],status:"PENDENTE"},
