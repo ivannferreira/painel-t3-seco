@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"20/10/2026 00:22:04",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"20/10/2026 00:28:23",rotas:[
 {destino:"CIB05",rota:"CIB05",sep:[3,619,6,158],c1:[744,3073,346,224],c2:[744,3073,346,224],status:"PENDENTE"},
 {destino:"SP",rota:"04301",sep:[5,0,0,0],c1:[5,0,0,0],c2:[5,1,0,0],status:"PENDENTE"},
 {destino:"SP",rota:"04326",sep:[0,0,0,0],c1:[11,0,14,13],c2:[17,24,14,13],status:"PENDENTE"},
