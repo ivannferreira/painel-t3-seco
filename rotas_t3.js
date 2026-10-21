@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 06:18:10",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 06:24:51",rotas:[
 {destino:"BELEM",rota:"15401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELEM",rota:"15402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELEM",rota:"15501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -44,7 +44,7 @@
 {destino:"CONTAGEM",rota:"10604",sep:[0,0,0,0],c1:[147,0,10,0],c2:[147,25,10,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2ª",rota:"02522",sep:[0,0,0,0],c1:[85,0,0,0],c2:[85,9,0,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2ª",rota:"02524",sep:[0,0,0,0],c1:[13,0,1,0],c2:[13,8,1,0],status:"PENDENTE"},
-{destino:"ARAUCARIA 2ª",rota:"02521",sep:[0,0,0,0],c1:[86,0,13,1],c2:[86,60,13,1],status:"PENDENTE"},
+{destino:"ARAUCARIA 2ª",rota:"02521",sep:[0,0,0,0],c1:[84,0,13,1],c2:[86,60,13,1],status:"PENDENTE"},
 {destino:"ARAUCARIA 2ª",rota:"02523",sep:[0,0,0,0],c1:[40,0,12,2],c2:[40,6,12,2],status:"PENDENTE"},
 {destino:"ARAUCARIA 2ª",rota:"02501",sep:[0,0,0,0],c1:[245,0,17,0],c2:[245,68,17,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2ª",rota:"02502",sep:[0,0,0,0],c1:[119,0,10,0],c2:[119,24,10,0],status:"PENDENTE"},
