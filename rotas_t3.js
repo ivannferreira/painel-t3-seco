@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 06:24:51",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 06:31:31",rotas:[
 {destino:"BELEM",rota:"15401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELEM",rota:"15402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELEM",rota:"15501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -84,7 +84,7 @@
 {destino:"SALVADOR 1ª",rota:"11404",sep:[133,12,6,0],c1:[133,12,6,0],c2:[133,12,6,0],status:"PENDENTE"},
 {destino:"SALVADOR 1ª",rota:"11502",sep:[72,14,14,0],c1:[72,14,14,0],c2:[72,14,14,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04522",sep:[11,0,0,0],c1:[247,0,16,0],c2:[247,14,16,0],status:"PENDENTE"},
-{destino:"SP (1)",rota:"04523",sep:[303,0,0,0],c1:[303,0,12,0],c2:[303,28,12,0],status:"PENDENTE"},
+{destino:"SP (1)",rota:"04523",sep:[299,0,0,0],c1:[303,0,12,0],c2:[303,28,12,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04524",sep:[352,0,15,0],c1:[352,0,15,0],c2:[352,8,15,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04525",sep:[274,0,13,0],c1:[274,0,13,0],c2:[274,25,13,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04526",sep:[267,0,12,0],c1:[267,0,12,0],c2:[267,13,12,0],status:"PENDENTE"},
