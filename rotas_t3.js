@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 03:31:32",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 03:38:04",rotas:[
 {destino:"BELEM",rota:"15401",sep:[0,0,0,0],c1:[0,0,4,0],c2:[0,0,6,0],status:"PENDENTE"},
 {destino:"BELEM",rota:"15402",sep:[0,0,0,0],c1:[1,0,5,0],c2:[1,0,6,1],status:"PENDENTE"},
 {destino:"BELEM",rota:"15501",sep:[0,0,0,0],c1:[0,0,1,0],c2:[0,0,20,8],status:"PENDENTE"},
