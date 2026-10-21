@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 06:31:31",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 06:38:15",rotas:[
 {destino:"BELEM",rota:"15401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELEM",rota:"15402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELEM",rota:"15501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -50,7 +50,7 @@
 {destino:"ARAUCARIA 2ª",rota:"02502",sep:[0,0,0,0],c1:[119,0,10,0],c2:[119,24,10,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2ª",rota:"02506",sep:[0,0,0,0],c1:[166,0,3,0],c2:[166,6,3,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2ª",rota:"02602",sep:[0,0,0,0],c1:[67,0,2,0],c2:[67,6,2,0],status:"PENDENTE"},
-{destino:"RIO DE JANEIRO 1º",rota:"03501",sep:[97,0,15,0],c1:[97,0,15,0],c2:[97,23,15,0],status:"PENDENTE"},
+{destino:"RIO DE JANEIRO 1º",rota:"03501",sep:[94,0,15,0],c1:[97,0,15,0],c2:[97,23,15,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1º",rota:"035D3",sep:[71,0,32,0],c1:[71,0,32,7],c2:[71,6,32,7],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1º",rota:"03506",sep:[222,0,35,0],c1:[222,0,35,0],c2:[222,75,35,0],status:"PENDENTE"},
 {destino:"RIO DE JANEIRO 1º",rota:"03508",sep:[123,0,15,0],c1:[123,0,15,0],c2:[123,37,15,0],status:"PENDENTE"},
@@ -84,7 +84,7 @@
 {destino:"SALVADOR 1ª",rota:"11404",sep:[133,12,6,0],c1:[133,12,6,0],c2:[133,12,6,0],status:"PENDENTE"},
 {destino:"SALVADOR 1ª",rota:"11502",sep:[72,14,14,0],c1:[72,14,14,0],c2:[72,14,14,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04522",sep:[11,0,0,0],c1:[247,0,16,0],c2:[247,14,16,0],status:"PENDENTE"},
-{destino:"SP (1)",rota:"04523",sep:[299,0,0,0],c1:[303,0,12,0],c2:[303,28,12,0],status:"PENDENTE"},
+{destino:"SP (1)",rota:"04523",sep:[260,0,0,0],c1:[303,0,12,0],c2:[303,28,12,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04524",sep:[352,0,15,0],c1:[352,0,15,0],c2:[352,8,15,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04525",sep:[274,0,13,0],c1:[274,0,13,0],c2:[274,25,13,0],status:"PENDENTE"},
 {destino:"SP (1)",rota:"04526",sep:[267,0,12,0],c1:[267,0,12,0],c2:[267,13,12,0],status:"PENDENTE"},
