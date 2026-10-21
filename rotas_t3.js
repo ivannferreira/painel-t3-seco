@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 05:50:52",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 05:58:11",rotas:[
 {destino:"BELEM",rota:"15401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELEM",rota:"15402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELEM",rota:"15501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -23,8 +23,8 @@
 {destino:"SP",rota:"04408",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"0440A",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"SP",rota:"0440B",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"RIBEIRÃO PRETO 1°",rota:"16401",sep:[0,0,0,0],c1:[2,0,0,0],c2:[2,0,0,0],status:"PENDENTE"},
-{destino:"RIBEIRÃO PRETO 1°",rota:"16421",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,1,0],status:"PENDENTE"},
+{destino:"RIBEIRÃO PRETO 1°",rota:"16401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
+{destino:"RIBEIRÃO PRETO 1°",rota:"16421",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"RIBEIRÃO PRETO 2°",rota:"16422",sep:[0,0,0,0],c1:[350,0,10,0],c2:[350,19,10,0],status:"PENDENTE"},
 {destino:"RIBEIRÃO PRETO 2°",rota:"16423",sep:[0,0,0,0],c1:[314,0,20,0],c2:[323,15,20,0],status:"PENDENTE"},
 {destino:"TABOÃO",rota:"27501",sep:[0,0,0,0],c1:[120,0,22,0],c2:[120,37,22,0],status:"PENDENTE"},
