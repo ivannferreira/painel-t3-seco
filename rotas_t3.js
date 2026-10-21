@@ -1,4 +1,4 @@
-﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 04:10:30",rotas:[
+﻿window.PAINEL_T3_ROTAS={atualizacao:"21/10/2026 04:17:02",rotas:[
 {destino:"BELEM",rota:"15401",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELEM",rota:"15402",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
 {destino:"BELEM",rota:"15501",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
@@ -35,12 +35,12 @@
 {destino:"GUARULHOS",rota:"225G6",sep:[1,0,0,0],c1:[121,0,8,0],c2:[121,33,8,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"225G7",sep:[0,0,0,0],c1:[138,0,9,0],c2:[138,30,9,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"225G3",sep:[2,0,0,0],c1:[135,0,24,0],c2:[135,22,24,0],status:"PENDENTE"},
-{destino:"GUARULHOS",rota:"225G4",sep:[20,0,0,0],c1:[181,0,18,0],c2:[181,47,18,0],status:"PENDENTE"},
+{destino:"GUARULHOS",rota:"225G4",sep:[5,0,0,0],c1:[181,0,18,0],c2:[181,47,18,0],status:"PENDENTE"},
 {destino:"GUARULHOS",rota:"225G5",sep:[0,0,0,0],c1:[104,0,21,1],c2:[104,39,21,1],status:"PENDENTE"},
-{destino:"CONTAGEM",rota:"10501",sep:[211,1,0,0],c1:[236,1,8,0],c2:[236,70,8,0],status:"PENDENTE"},
+{destino:"CONTAGEM",rota:"10501",sep:[190,1,0,0],c1:[236,1,8,0],c2:[236,70,8,0],status:"PENDENTE"},
 {destino:"CONTAGEM",rota:"10522",sep:[0,0,0,0],c1:[0,0,0,0],c2:[0,0,0,0],status:"FINALIZADO"},
-{destino:"CONTAGEM",rota:"10602",sep:[125,0,0,0],c1:[229,0,8,0],c2:[229,59,8,0],status:"PENDENTE"},
-{destino:"CONTAGEM",rota:"10601",sep:[64,0,0,0],c1:[78,0,8,0],c2:[78,22,8,0],status:"PENDENTE"},
+{destino:"CONTAGEM",rota:"10602",sep:[108,0,0,0],c1:[229,0,8,0],c2:[229,59,8,0],status:"PENDENTE"},
+{destino:"CONTAGEM",rota:"10601",sep:[51,0,0,0],c1:[78,0,8,0],c2:[78,22,8,0],status:"PENDENTE"},
 {destino:"CONTAGEM",rota:"10604",sep:[147,0,0,0],c1:[147,0,10,0],c2:[147,25,10,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2ª",rota:"02522",sep:[0,0,0,0],c1:[85,0,0,0],c2:[85,9,0,0],status:"PENDENTE"},
 {destino:"ARAUCARIA 2ª",rota:"02524",sep:[0,0,0,0],c1:[13,0,1,0],c2:[13,8,1,0],status:"PENDENTE"},
